@@ -52,7 +52,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/KiCad-BOM-CPL-Plugin).
 
-## Workbench [FreeCAD](https://kicad-pcb.org/download/):
+## Workbench [FreeCAD](https://www.freecadweb.org/?lang=fr):
 
 ### [USBTerminal](https://github.com/prrvchr/USBTerminal/)
 
