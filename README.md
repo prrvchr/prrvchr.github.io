@@ -10,6 +10,22 @@ Below is a list of extensions that make free software more innovative:
 
 ## [LibreOffice](https://www.libreoffice.org/download/download/) / [OpenOffice](https://www.openoffice.org/download/index.html) extensions:
 
+### [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
+
+This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
+
+Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/).
+
+### [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
+
+The latest HsqlDB driver finally available in Base.
+
+Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
+
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/).
+
 ### [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo)
 
 This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.

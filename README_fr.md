@@ -10,6 +10,22 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 ## Extensions [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/) / [OpenOffice](https://www.openoffice.org/fr/Telecharger/):
 
+### [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
+
+Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
+
+Téléchargement direct: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/README_fr).
+
+### [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
+
+Le dernier pilote HsqlDB enfin disponible dans Base.
+
+Téléchargement direct: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
+
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/README_fr).
+
 ### [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo/)
 
 Cette extension est l'implémentation du protocole OAuth 2.0. Protocole permettant d'obtenir votre consentement pour qu'une application puisse accéder à vos données présentes chez les GAFA.
