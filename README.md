@@ -70,7 +70,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to send electronic mail in LibreOffice / OpenOffice.
 
-Direct download: [smtpServerOOo.oxt](https://github.com/prrvchr/smtpServerOOo/raw/master/smtpServerOOo.oxt)
+Direct download: [smtpServerOOo.oxt](https://github.com/prrvchr/smtpServerOOo/raw/main/smtpServerOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpServerOOo/).
 
