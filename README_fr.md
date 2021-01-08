@@ -14,7 +14,7 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
 
-Téléchargement direct: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+Téléchargement direct: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/releases/download/v0.0.3/HsqlDBembeddedOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/README_fr).
 
@@ -22,7 +22,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Le dernier pilote HsqlDB enfin disponible dans Base.
 
-Téléchargement direct: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
+Téléchargement direct: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/releases/download/v0.0.3/HsqlDBDriverOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/README_fr).
 

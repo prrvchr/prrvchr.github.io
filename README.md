@@ -14,7 +14,7 @@ Below is a list of extensions that make free software more innovative:
 
 This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
 
-Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/releases/download/v0.0.3/HsqlDBembeddedOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/).
 
@@ -22,7 +22,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 The latest HsqlDB driver finally available in Base.
 
-Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
+Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/releases/download/v0.0.3/HsqlDBDriverOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/).
 
