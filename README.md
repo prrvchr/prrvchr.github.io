@@ -10,6 +10,14 @@ Below is a list of extensions that make free software more innovative:
 
 ## [LibreOffice](https://www.libreoffice.org/download/download/) / [OpenOffice](https://www.openoffice.org/download/index.html) extensions:
 
+### [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
+
+This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
+
+Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
+
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpMailerOOo/).
+
 ### [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
 
 This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
@@ -65,22 +73,6 @@ This extension allows you to work in LibreOffice / OpenOffice on your Dropbox fi
 Direct download: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/DropboxOOo/).
-
-### [smtpServerOOo](https://github.com/prrvchr/smtpServerOOo/)
-
-This extension allows you to send electronic mail in LibreOffice / OpenOffice.
-
-Direct download: [smtpServerOOo.oxt](https://github.com/prrvchr/smtpServerOOo/raw/main/smtpServerOOo.oxt)
-
-Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpServerOOo/).
-
-### [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
-
-This extension allows you to send documents in LibreOffice / OpenOffice, possibly by mail merge, to your telephone contacts.
-
-Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
-
-Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpMailerOOo/).
 
 ## [KiCad](https://kicad-pcb.org/download/) plugins:
 

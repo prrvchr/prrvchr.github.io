@@ -10,6 +10,14 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 ## Extensions [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/) / [OpenOffice](https://www.openoffice.org/fr/Telecharger/):
 
+### [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
+
+Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
+
+Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
+
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/smtpMailerOOo/README_fr).
+
 ### [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
 
 Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
@@ -65,22 +73,6 @@ Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos 
 Téléchargement direct: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/DropboxOOo/README_fr).
-
-### [smtpServerOOo](https://github.com/prrvchr/smtpServerOOo/)
-
-Cette extension vous permet d'envoyer du courrier électronique dans LibreOffice / OpenOffice.
-
-Téléchargement direct: [smtpServerOOo.oxt](https://github.com/prrvchr/smtpServerOOo/raw/main/smtpServerOOo.oxt)
-
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/smtpServerOOo/README_fr).
-
-### [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
-
-Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice, éventuellement par publipostage, à vos contacts téléphoniques.
-
-Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
-
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/smtpMailerOOo/README_fr).
 
 ## Plugins [KiCad](https://kicad-pcb.org/download/):
 
