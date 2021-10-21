@@ -1,6 +1,6 @@
-**Ce [document](https://prrvchr.github.io/README_fr) en français.**
-
 # Welcome to prrvchr [repositories](https://github.com/prrvchr?tab=repositories)
+
+**Ce [document](https://prrvchr.github.io/README_fr) en français.**
 
 To answer the adage: **"Free software only offers what we give it."**
 
