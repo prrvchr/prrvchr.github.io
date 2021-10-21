@@ -34,7 +34,7 @@ Téléchargement direct: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDB
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/README_fr).
 
-### [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo/)
+### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo/)
 
 Cette extension est l'implémentation du protocole OAuth 2.0. Protocole permettant d'obtenir votre consentement pour qu'une application puisse accéder à vos données présentes chez les GAFA.
 
