@@ -10,7 +10,7 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 ## Extensions [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/) / [OpenOffice](https://www.openoffice.org/fr/Telecharger/):
 
-### [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
+### ![smtpMailerOOo logo](https://prrvchr.github.io/smtpMailerOOo/img/smtpMailerOOo.png) [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
 
 Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
 
@@ -34,7 +34,7 @@ Téléchargement direct: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDB
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/README_fr).
 
-### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo/)
+### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo/)
 
 Cette extension est l'implémentation du protocole OAuth 2.0. Protocole permettant d'obtenir votre consentement pour qu'une application puisse accéder à vos données présentes chez les GAFA.
 

@@ -10,7 +10,7 @@ Below is a list of extensions that make free software more innovative:
 
 ## [LibreOffice](https://www.libreoffice.org/download/download/) / [OpenOffice](https://www.openoffice.org/download/index.html) extensions:
 
-### [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
+### ![smtpMailerOOo logo](https://prrvchr.github.io/smtpMailerOOo/img/smtpMailerOOo.png) [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
 
 This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
 
@@ -34,7 +34,7 @@ Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOO
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/).
 
-### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo)
+### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo)
 
 This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.
 
