@@ -18,7 +18,7 @@ Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMail
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/smtpMailerOOo/README_fr).
 
-### [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
+### ![HsqlDBembeddedOOo logo](https://prrvchr.github.io/HsqlDBembeddedOOo/img/HsqlDBembeddedOOo.png) [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
 
 Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
 
@@ -26,7 +26,7 @@ Téléchargement direct: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/Hsql
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/README_fr).
 
-### [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
+### ![HsqlDBDriverOOo logo](https://prrvchr.github.io/HsqlDBDriverOOo/img/HsqlDBDriverOOo.png) [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
 
 Le dernier pilote HsqlDB enfin disponible dans Base.
 
