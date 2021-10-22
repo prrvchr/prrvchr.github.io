@@ -42,7 +42,7 @@ Téléchargement direct: [OAuth2OOo.oxt](https://github.com/prrvchr/OAuth2OOo/ra
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/OAuth2OOo/README_fr).
 
-### [gContactOOo](https://github.com/prrvchr/gContactOOo/)
+### ![gContactOOo logo](https://prrvchr.github.io/gContactOOo/img/gContactOOo.png) [gContactOOo](https://github.com/prrvchr/gContactOOo/)
 
 Cette extension vous donne l'acces à vos contacts téléphonique dans LibreOffice / OpenOffice (les contacts de votre téléphone Android).
 
