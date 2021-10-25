@@ -50,7 +50,7 @@ Direct download: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/ma
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/gContactOOo/).
 
-### [gDriveOOo](https://github.com/prrvchr/gDriveOOo/)
+### ![gDriveOOo logo](https://prrvchr.github.io/gDriveOOo/img/gDriveOOo.png) [gDriveOOo](https://github.com/prrvchr/gDriveOOo/)
 
 This extension allows you to work in LibreOffice / OpenOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
 
@@ -58,7 +58,7 @@ Direct download: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/gDriveOOo/).
 
-### [oneDriveOOo](https://github.com/prrvchr/oneDriveOOo/)
+### ![oneDriveOOo logo](https://prrvchr.github.io/oneDriveOOo/img/oneDriveOOo.png) [oneDriveOOo](https://github.com/prrvchr/oneDriveOOo/)
 
 This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
 
@@ -66,7 +66,7 @@ Direct download: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/ma
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/oneDriveOOo/).
 
-### [DropboxOOo](https://github.com/prrvchr/DropboxOOo/)
+### ![DropboxOOo logo](https://prrvchr.github.io/DropboxOOo/img/DropboxOOo.png) [DropboxOOo](https://github.com/prrvchr/DropboxOOo/)
 
 This extension allows you to work in LibreOffice / OpenOffice on your Dropbox files, even while offline.
 
