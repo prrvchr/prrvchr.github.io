@@ -20,7 +20,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![vCardOOo logo](https://prrvchr.github.io/vCardOOo/img/vCardOOo.png) [vCardOOo](https://github.com/prrvchr/vCardOOo/)
 
-Cette extension vous donne accès dans LibreOffice / OpenOffice, à vos contacts présent sur une plateforme **[Nextcloud]**(https://fr.wikipedia.org/wiki/Nextcloud) (ou tous serveurs compatible Nexcloud).
+Cette extension vous donne accès dans LibreOffice / OpenOffice, à vos contacts présent sur une plateforme [**Nextcloud**](https://fr.wikipedia.org/wiki/Nextcloud) (ou tous serveurs compatible Nexcloud).
 
 Téléchargement direct: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/vCardOOo.oxt)
 
