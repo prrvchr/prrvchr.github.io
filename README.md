@@ -14,33 +14,17 @@ Below is a list of extensions that make free software more innovative:
 
 This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
 
-Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
+Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/releases/download/v0.0.1/smtpMailerOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpMailerOOo/).
 
-### ![HsqlDBembeddedOOo logo](https://prrvchr.github.io/HsqlDBembeddedOOo/img/HsqlDBembeddedOOo.png) [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
+### ![vCardOOo logo](https://prrvchr.github.io/vCardOOo/img/vCardOOo.png) [vCardOOo](https://github.com/prrvchr/vCardOOo/)
 
-This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
+This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [Nextcloud](https://en.wikipedia.org/wiki/Nextcloud) platform (or any Nexcloud compatible server).
 
-Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+Direct download: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/master/vCardOOo.oxt)
 
-Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/).
-
-### ![HsqlDBDriverOOo logo](https://prrvchr.github.io/HsqlDBDriverOOo/img/HsqlDBDriverOOo.png) [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
-
-The latest HsqlDB driver finally available in Base.
-
-Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
-
-Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/).
-
-### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo)
-
-This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.
-
-Direct download: [OAuth2OOo.oxt](https://github.com/prrvchr/OAuth2OOo/raw/master/OAuth2OOo.oxt)
-
-Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/OAuth2OOo/).
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/vCardOOo/).
 
 ### ![gContactOOo logo](https://prrvchr.github.io/gContactOOo/img/gContactOOo.png) [gContactOOo](https://github.com/prrvchr/gContactOOo/)
 
@@ -73,6 +57,30 @@ This extension allows you to work in LibreOffice / OpenOffice on your Dropbox fi
 Direct download: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/DropboxOOo/).
+
+### ![OAuth2OOo logo](https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.png) [OAuth2OOo](https://github.com/prrvchr/OAuth2OOo)
+
+This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.
+
+Direct download: [OAuth2OOo.oxt](https://github.com/prrvchr/OAuth2OOo/raw/master/OAuth2OOo.oxt)
+
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/OAuth2OOo/).
+
+### ![HsqlDBDriverOOo logo](https://prrvchr.github.io/HsqlDBDriverOOo/img/HsqlDBDriverOOo.png) [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
+
+The latest HsqlDB driver finally available in Base.
+
+Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
+
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/).
+
+### ![HsqlDBembeddedOOo logo](https://prrvchr.github.io/HsqlDBembeddedOOo/img/HsqlDBembeddedOOo.png) [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
+
+This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
+
+Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/).
 
 ## [KiCad](https://kicad-pcb.org/download/) plugins:
 
