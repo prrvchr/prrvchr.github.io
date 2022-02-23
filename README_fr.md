@@ -14,7 +14,7 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
 
-Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/releases/download/v0.0.1/smtpMailerOOo.oxt)
+Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/smtpMailerOOo/README_fr).
 

@@ -14,7 +14,7 @@ Below is a list of extensions that make free software more innovative:
 
 This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
 
-Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/releases/download/v0.0.1/smtpMailerOOo.oxt)
+Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpMailerOOo/).
 
