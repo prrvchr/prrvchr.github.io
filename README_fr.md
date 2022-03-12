@@ -8,11 +8,11 @@ J'ai eu pour idée de developper des extensions à des logiciels libre afin de l
 
 Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres plus inovants:
 
-## Extensions [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/) / [OpenOffice](https://www.openoffice.org/fr/Telecharger/):
+## Extensions [LibreOffice](https://fr.libreoffice.org/download/telecharger-libreoffice/):
 
 ### ![smtpMailerOOo logo](https://prrvchr.github.io/smtpMailerOOo/img/smtpMailerOOo.png) [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
 
-Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
+Cette extension vous permet d'envoyer des documents dans LibreOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
 
 Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
 
@@ -20,7 +20,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![vCardOOo logo](https://prrvchr.github.io/vCardOOo/img/vCardOOo.png) [vCardOOo](https://github.com/prrvchr/vCardOOo/)
 
-Cette extension vous donne accès dans LibreOffice / OpenOffice, à vos contacts présent sur une plateforme [**Nextcloud**](https://fr.wikipedia.org/wiki/Nextcloud) (ou tous serveurs compatible Nexcloud).
+Cette extension vous donne accès dans LibreOffice, à vos contacts présent sur une plateforme [**Nextcloud**](https://fr.wikipedia.org/wiki/Nextcloud) (ou tous serveurs compatible Nexcloud).
 
 Téléchargement direct: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/vCardOOo.oxt)
 
@@ -28,7 +28,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![gContactOOo logo](https://prrvchr.github.io/gContactOOo/img/gContactOOo.png) [gContactOOo](https://github.com/prrvchr/gContactOOo/)
 
-Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice / OpenOffice (les contacts de votre téléphone Android).
+Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice (les contacts de votre téléphone Android).
 
 Téléchargement direct: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/master/gContactOOo.oxt)
 
@@ -36,7 +36,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![gDriveOOo logo](https://prrvchr.github.io/gDriveOOo/img/gDriveOOo.png) [gDriveOOo](https://github.com/prrvchr/gDriveOOo/)
 
-Cette extension vous permet de travailler sous LibreOffice / OpenOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
+Cette extension vous permet de travailler sous LibreOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
 
 Téléchargement direct: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master/gDriveOOo.oxt)
 
@@ -44,7 +44,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![oneDriveOOo logo](https://prrvchr.github.io/oneDriveOOo/img/oneDriveOOo.png) [oneDriveOOo](https://github.com/prrvchr/oneDriveOOo/)
 
-Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos fichiers Microsoft OneDrive, même hors ligne.
+Cette extension vous permet de travailler dans LibreOffice sur vos fichiers Microsoft OneDrive, même hors ligne.
 
 Téléchargement direct: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/master/oneDriveOOo.oxt)
 
@@ -52,7 +52,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![DropboxOOo logo](https://prrvchr.github.io/DropboxOOo/img/DropboxOOo.png) [DropboxOOo](https://github.com/prrvchr/DropboxOOo/)
 
-Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos fichiers Dropbox, même hors ligne.
+Cette extension vous permet de travailler dans LibreOffice sur vos fichiers Dropbox, même hors ligne.
 
 Téléchargement direct: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
 

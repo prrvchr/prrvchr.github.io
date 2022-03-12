@@ -8,11 +8,11 @@ My idea was to develop extensions to free software in order to provide them with
 
 Below is a list of extensions that make free software more innovative:
 
-## [LibreOffice](https://www.libreoffice.org/download/download/) / [OpenOffice](https://www.openoffice.org/download/index.html) extensions:
+## [LibreOffice](https://www.libreoffice.org/download/download/) extensions:
 
 ### ![smtpMailerOOo logo](https://prrvchr.github.io/smtpMailerOOo/img/smtpMailerOOo.png) [smtpMailerOOo](https://github.com/prrvchr/smtpMailerOOo/)
 
-This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
+This extension allows you to send documents in LibreOffice as an email, possibly by mail merge, to your telephone contacts.
 
 Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
 
@@ -20,7 +20,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![vCardOOo logo](https://prrvchr.github.io/vCardOOo/img/vCardOOo.png) [vCardOOo](https://github.com/prrvchr/vCardOOo/)
 
-This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [**Nextcloud**](https://en.wikipedia.org/wiki/Nextcloud) platform (or any Nexcloud compatible server).
+This extension gives you access in LibreOffice, to your contacts present on a [**Nextcloud**](https://en.wikipedia.org/wiki/Nextcloud) platform (or any Nexcloud compatible server).
 
 Direct download: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/vCardOOo.oxt)
 
@@ -28,7 +28,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![gContactOOo logo](https://prrvchr.github.io/gContactOOo/img/gContactOOo.png) [gContactOOo](https://github.com/prrvchr/gContactOOo/)
 
-This extension gives you access to your phone contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
+This extension gives you access to your phone contacts in LibreOffice (the contacts of your Android phone).
 
 Direct download: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/master/gContactOOo.oxt)
 
@@ -36,7 +36,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![gDriveOOo logo](https://prrvchr.github.io/gDriveOOo/img/gDriveOOo.png) [gDriveOOo](https://github.com/prrvchr/gDriveOOo/)
 
-This extension allows you to work in LibreOffice / OpenOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
+This extension allows you to work in LibreOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
 
 Direct download: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master/gDriveOOo.oxt)
 
@@ -44,7 +44,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![oneDriveOOo logo](https://prrvchr.github.io/oneDriveOOo/img/oneDriveOOo.png) [oneDriveOOo](https://github.com/prrvchr/oneDriveOOo/)
 
-This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
+This extension allows you to work in LibreOffice on your Microsoft OneDrive files, even while offline.
 
 Direct download: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/master/oneDriveOOo.oxt)
 
@@ -52,7 +52,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![DropboxOOo logo](https://prrvchr.github.io/DropboxOOo/img/DropboxOOo.png) [DropboxOOo](https://github.com/prrvchr/DropboxOOo/)
 
-This extension allows you to work in LibreOffice / OpenOffice on your Dropbox files, even while offline.
+This extension allows you to work in LibreOffice on your Dropbox files, even while offline.
 
 Direct download: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
 
