@@ -66,13 +66,13 @@ Direct download: [OAuth2OOo.oxt](https://github.com/prrvchr/OAuth2OOo/raw/master
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/OAuth2OOo/).
 
-### ![HsqlDBDriverOOo logo](https://prrvchr.github.io/HsqlDBDriverOOo/img/HsqlDBDriverOOo.png) [HsqlDBDriverOOo](https://github.com/prrvchr/HsqlDBDriverOOo/)
+### ![jdbcDriverOOo logo](https://prrvchr.github.io/jdbcDriverOOo/img/jdbcDriverOOo.png) [jdbcDriverOOo](https://github.com/prrvchr/jdbcDriverOOo/)
 
-The latest HsqlDB driver finally available in Base.
+The latest JDBC drivers finally available in Base.
 
-Direct download: [HsqlDBDriverOOo.oxt](https://github.com/prrvchr/HsqlDBDriverOOo/raw/master/HsqlDBDriverOOo.oxt)
+Direct download: [jdbcDriverOOo.oxt](https://github.com/prrvchr/jdbcDriverOOo/raw/master/jdbcDriverOOo.oxt)
 
-Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBDriverOOo/).
+Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/jdbcDriverOOo/).
 
 ### ![HsqlDBembeddedOOo logo](https://prrvchr.github.io/HsqlDBembeddedOOo/img/HsqlDBembeddedOOo.png) [HsqlDBembeddedOOo](https://github.com/prrvchr/HsqlDBembeddedOOo)
 
