@@ -14,15 +14,15 @@ Below is a list of extensions that make free software more innovative:
 
 This extension allows you to send documents in LibreOffice as an email, possibly by mail merge, to your telephone contacts.
 
-Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
+Direct download: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/source/smtpMailerOOo/dist/smtpMailerOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/smtpMailerOOo/).
 
 ### ![vCardOOo logo](https://prrvchr.github.io/vCardOOo/img/vCardOOo.png) [vCardOOo](https://github.com/prrvchr/vCardOOo/)
 
-This extension gives you access in LibreOffice, to your contacts present on a [**Nextcloud**](https://en.wikipedia.org/wiki/Nextcloud) platform (or any Nexcloud compatible server).
+This extension gives you access in LibreOffice, to your contacts present on a [**Nextcloud**](https://en.wikipedia.org/wiki/Nextcloud) platform (or any Nextcloud compatible server).
 
-Direct download: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/vCardOOo.oxt)
+Direct download: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/source/vCardOOo/dist/vCardOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/vCardOOo/).
 
@@ -30,7 +30,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access to your phone contacts in LibreOffice (the contacts of your Android phone).
 
-Direct download: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/master/gContactOOo.oxt)
+Direct download: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/master/source/gContactOOo/dist/gContactOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/gContactOOo/).
 
@@ -70,7 +70,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 The latest JDBC drivers finally available in Base.
 
-Direct download: [jdbcDriverOOo.oxt](https://github.com/prrvchr/jdbcDriverOOo/raw/master/jdbcDriverOOo.oxt)
+Direct download: [jdbcDriverOOo.oxt](https://github.com/prrvchr/jdbcDriverOOo/raw/master/source/jdbcDriverOOo/dist/jdbcDriverOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/jdbcDriverOOo/).
 

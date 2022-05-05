@@ -14,15 +14,15 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 Cette extension vous permet d'envoyer des documents dans LibreOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
 
-Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/smtpMailerOOo.oxt)
+Téléchargement direct: [smtpMailerOOo.oxt](https://github.com/prrvchr/smtpMailerOOo/raw/master/source/smtpMailerOOo/dist/smtpMailerOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/smtpMailerOOo/README_fr).
 
 ### ![vCardOOo logo](https://prrvchr.github.io/vCardOOo/img/vCardOOo.png) [vCardOOo](https://github.com/prrvchr/vCardOOo/)
 
-Cette extension vous donne accès dans LibreOffice, à vos contacts présent sur une plateforme [**Nextcloud**](https://fr.wikipedia.org/wiki/Nextcloud) (ou tous serveurs compatible Nexcloud).
+Cette extension vous donne accès dans LibreOffice, à vos contacts présent sur une plateforme [**Nextcloud**](https://fr.wikipedia.org/wiki/Nextcloud) (ou tous serveurs compatible Nextcloud).
 
-Téléchargement direct: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/vCardOOo.oxt)
+Téléchargement direct: [vCardOOo.oxt](https://github.com/prrvchr/vCardOOo/raw/main/source/vCardOOo/dist/vCardOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/vCardOOo/README_fr).
 
@@ -30,7 +30,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice (les contacts de votre téléphone Android).
 
-Téléchargement direct: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/master/gContactOOo.oxt)
+Téléchargement direct: [gContactOOo.oxt](https://github.com/prrvchr/gContactOOo/raw/master/source/gContactOOo/dist/gContactOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/gContactOOo/README_fr).
 
@@ -70,7 +70,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Les derniers pilotes JDBC enfin disponibles dans Base.
 
-Téléchargement direct: [jdbcDriverOOo.oxt](https://github.com/prrvchr/jdbcDriverOOo/raw/master/jdbcDriverOOo.oxt)
+Téléchargement direct: [jdbcDriverOOo.oxt](https://github.com/prrvchr/jdbcDriverOOo/raw/master/source/jdbcDriverOOo/dist/jdbcDriverOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/jdbcDriverOOo/README_fr).
 
