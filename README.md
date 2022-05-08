@@ -38,7 +38,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
 
-Direct download: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master/gDriveOOo.oxt)
+Direct download: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master/source/gDriveOOo/dist/gDriveOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/gDriveOOo/).
 
@@ -46,7 +46,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice on your Microsoft OneDrive files, even while offline.
 
-Direct download: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/master/oneDriveOOo.oxt)
+Direct download: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/master/source/oneDriveOOo/dist/oneDriveOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/oneDriveOOo/).
 
@@ -54,7 +54,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice on your Dropbox files, even while offline.
 
-Direct download: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
+Direct download: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/source/DropboxOOo/dist/DropboxOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/DropboxOOo/).
 
@@ -78,7 +78,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
 
-Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+Direct download: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/source/HsqlDBembeddedOOo/dist/HsqlDBembeddedOOo.oxt)
 
 Regarding installation, configuration and use, please consult the [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/).
 

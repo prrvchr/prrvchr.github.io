@@ -38,7 +38,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet de travailler sous LibreOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
 
-Téléchargement direct: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master/gDriveOOo.oxt)
+Téléchargement direct: [gDriveOOo.oxt](https://github.com/prrvchr/gDriveOOo/raw/master/source/gDriveOOo/dist/gDriveOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/gDriveOOo/README_fr).
 
@@ -46,7 +46,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet de travailler dans LibreOffice sur vos fichiers Microsoft OneDrive, même hors ligne.
 
-Téléchargement direct: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/master/oneDriveOOo.oxt)
+Téléchargement direct: [oneDriveOOo.oxt](https://github.com/prrvchr/oneDriveOOo/raw/master/source/oneDriveOOo/dist/oneDriveOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/oneDriveOOo/README_fr).
 
@@ -54,7 +54,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet de travailler dans LibreOffice sur vos fichiers Dropbox, même hors ligne.
 
-Téléchargement direct: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/DropboxOOo.oxt)
+Téléchargement direct: [DropboxOOo.oxt](https://github.com/prrvchr/DropboxOOo/raw/master/source/DropboxOOo/dist/DropboxOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/DropboxOOo/README_fr).
 
@@ -78,7 +78,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
 
-Téléchargement direct: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/HsqlDBembeddedOOo.oxt)
+Téléchargement direct: [HsqlDBembeddedOOo.oxt](https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/source/HsqlDBembeddedOOo/dist/HsqlDBembeddedOOo.oxt)
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation](https://prrvchr.github.io/HsqlDBembeddedOOo/README_fr).
 
