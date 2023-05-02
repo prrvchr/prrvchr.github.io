@@ -50,11 +50,11 @@ Direct download: [oneDriveOOo.oxt][23]
 
 Regarding installation, configuration and use, please consult the [documentation][24].
 
-### ![dbDriveOOo logo][25] [dbDriveOOo][26]
+### ![dDriveOOo logo][25] [dDriveOOo][26]
 
 This extension allows you to work in LibreOffice on your Dropbox files, even while offline.
 
-Direct download: [dbDriveOOo.oxt][27]
+Direct download: [dDriveOOo.oxt][27]
 
 Regarding installation, configuration and use, please consult the [documentation][28].
 
@@ -122,10 +122,10 @@ Regarding installation, configuration and use, please consult the [documentation
 [22]: <https://github.com/prrvchr/oneDriveOOo/>
 [23]: <https://github.com/prrvchr/oneDriveOOo/raw/master/source/oneDriveOOo/dist/oneDriveOOo.oxt>
 [24]: <https://prrvchr.github.io/oneDriveOOo/>
-[25]: <https://prrvchr.github.io/dbDriveOOo/img/dbDriveOOo.png>
-[26]: <https://github.com/prrvchr/dbDriveOOo/>
-[27]: <https://github.com/prrvchr/dbDriveOOo/raw/master/source/dbDriveOOo/dist/dbDriveOOo.oxt>
-[28]: <https://prrvchr.github.io/dbDriveOOo/>
+[25]: <https://prrvchr.github.io/dDriveOOo/img/dDriveOOo.png>
+[26]: <https://github.com/prrvchr/dDriveOOo/>
+[27]: <https://github.com/prrvchr/dDriveOOo/raw/master/source/dDriveOOo/dist/dDriveOOo.oxt>
+[28]: <https://prrvchr.github.io/dDriveOOo/>
 [29]: <https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.png>
 [30]: <https://github.com/prrvchr/OAuth2OOo>
 [31]: <https://github.com/prrvchr/OAuth2OOo/raw/master/OAuth2OOo.oxt>
