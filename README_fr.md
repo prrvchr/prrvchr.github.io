@@ -123,7 +123,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [15]: <https://github.com/prrvchr/gContactOOo/raw/master/source/gContactOOo/dist/gContactOOo.oxt>
 [16]: <https://prrvchr.github.io/gContactOOo/README_fr>
 [17]: <https://prrvchr.github.io/mContactOOo/img/mContactOOo.png>
-[18]: <https://github.com/prrvchr/gContactOOo/>
+[18]: <https://github.com/prrvchr/mContactOOo/>
 [19]: <https://outlook.live.com/mail/0/>
 [20]: <https://github.com/prrvchr/mContactOOo/raw/main/source/mContactOOo/dist/mContactOOo.oxt>
 [21]: <https://prrvchr.github.io/mContactOOo/README_fr>
