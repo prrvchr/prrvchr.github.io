@@ -12,7 +12,7 @@ Below is a list of extensions that make free software more innovative:
 
 ### ![smtpMailerOOo logo][5] [smtpMailerOOo][6]
 
-This extension allows you to send documents in LibreOffice as an email, possibly by mail merge, to your telephone contacts.
+This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
 
 Direct download: [smtpMailerOOo.oxt][7]
 
@@ -20,7 +20,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![vCardOOo logo][9] [vCardOOo][10]
 
-This extension gives you access in LibreOffice, to your contacts present on a [**Nextcloud**][11] platform (or any Nextcloud compatible server).
+This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [**Nextcloud**][11] platform (or any Nextcloud compatible server).
 
 Direct download: [vCardOOo.oxt][12]
 
@@ -28,7 +28,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![gContactOOo logo][14] [gContactOOo][15]
 
-This extension gives you access to your phone contacts in LibreOffice (the contacts of your Android phone).
+This extension gives you access to your phone contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
 
 Direct download: [gContactOOo.oxt][16]
 
@@ -36,7 +36,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![mContactOOo logo][18] [mContactOOo][19]
 
-This extension gives you access to your Microsoft Outlook contacts in LibreOffice (the contacts of your [Outlook email client][20]).
+This extension gives you access to your Microsoft Outlook contacts in LibreOffice / OpenOffice (the contacts of your [Outlook email client][20]).
 
 Direct download: [mContactOOo.oxt][21]
 
@@ -44,7 +44,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![gDriveOOo logo][23] [gDriveOOo][24]
 
-This extension allows you to work in LibreOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
+This extension allows you to work in LibreOffice / OpenOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
 
 Direct download: [gDriveOOo.oxt][25]
 
@@ -52,7 +52,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![oneDriveOOo logo][27] [oneDriveOOo][28]
 
-This extension allows you to work in LibreOffice on your Microsoft OneDrive files, even while offline.
+This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
 
 Direct download: [oneDriveOOo.oxt][29]
 
@@ -60,7 +60,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![dDriveOOo logo][31] [dDriveOOo][32]
 
-This extension allows you to work in LibreOffice on your Dropbox files, even while offline.
+This extension allows you to work in LibreOffice / OpenOffice on your Dropbox files, even while offline.
 
 Direct download: [dDriveOOo.oxt][33]
 

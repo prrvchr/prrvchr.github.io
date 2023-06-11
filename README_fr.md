@@ -12,7 +12,7 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 ### ![smtpMailerOOo logo][5] [smtpMailerOOo][6]
 
-Cette extension vous permet d'envoyer des documents dans LibreOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
+Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
 
 Téléchargement direct: [smtpMailerOOo.oxt][7]
 
@@ -20,7 +20,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![vCardOOo logo][9] [vCardOOo][10]
 
-Cette extension vous donne accès dans LibreOffice, à vos contacts présent sur une plateforme [**Nextcloud**][11] (ou tous serveurs compatible Nextcloud).
+Cette extension vous donne accès dans LibreOffice / OpenOffice, à vos contacts présent sur une plateforme [**Nextcloud**][11] (ou tous serveurs compatible Nextcloud).
 
 Téléchargement direct: [vCardOOo.oxt][12]
 
@@ -28,7 +28,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![gContactOOo logo][14] [gContactOOo][15]
 
-Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice (les contacts de votre téléphone Android).
+Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice / OpenOffice (les contacts de votre téléphone Android).
 
 Téléchargement direct: [gContactOOo.oxt][16]
 
@@ -36,7 +36,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![mContactOOo logo][18] [mContactOOo][19]
 
-Cette extension vous donne accès à vos contacts Microsoft Outlook dans LibreOffice (les contacts de votre [client de messagerie Outlook][20]).
+Cette extension vous donne accès à vos contacts Microsoft Outlook dans LibreOffice / OpenOffice (les contacts de votre [client de messagerie Outlook][20]).
 
 Téléchargement direct: [mContactOOo.oxt][21]
 
@@ -44,7 +44,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![gDriveOOo logo][23] [gDriveOOo][24]
 
-Cette extension vous permet de travailler sous LibreOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
+Cette extension vous permet de travailler sous LibreOffice / OpenOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
 
 Téléchargement direct: [gDriveOOo.oxt][25]
 
@@ -52,7 +52,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![oneDriveOOo logo][27] [oneDriveOOo][28]
 
-Cette extension vous permet de travailler dans LibreOffice sur vos fichiers Microsoft OneDrive, même hors ligne.
+Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos fichiers Microsoft OneDrive, même hors ligne.
 
 Téléchargement direct: [oneDriveOOo.oxt][29]
 
@@ -60,7 +60,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![dDriveOOo logo][31] [dDriveOOo][32]
 
-Cette extension vous permet de travailler dans LibreOffice sur vos fichiers Dropbox, même hors ligne.
+Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos fichiers Dropbox, même hors ligne.
 
 Téléchargement direct: [dDriveOOo.oxt][33]
 
