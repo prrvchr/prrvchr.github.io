@@ -50,11 +50,11 @@ Direct download: [gDriveOOo.oxt][25]
 
 Regarding installation, configuration and use, please consult the [documentation][26].
 
-### ![oneDriveOOo logo][27] [oneDriveOOo][28]
+### ![mDriveOOo logo][27] [mDriveOOo][28]
 
 This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
 
-Direct download: [oneDriveOOo.oxt][29]
+Direct download: [mDriveOOo.oxt][29]
 
 Regarding installation, configuration and use, please consult the [documentation][30].
 
@@ -132,10 +132,10 @@ Regarding installation, configuration and use, please consult the [documentation
 [24]: <https://github.com/prrvchr/gDriveOOo/>
 [25]: <https://github.com/prrvchr/gDriveOOo/raw/master/source/gDriveOOo/dist/gDriveOOo.oxt>
 [26]: <https://prrvchr.github.io/gDriveOOo/>
-[27]: <https://prrvchr.github.io/oneDriveOOo/img/oneDriveOOo.png>
-[28]: <https://github.com/prrvchr/oneDriveOOo/>
-[29]: <https://github.com/prrvchr/oneDriveOOo/raw/master/source/oneDriveOOo/dist/oneDriveOOo.oxt>
-[30]: <https://prrvchr.github.io/oneDriveOOo/>
+[27]: <https://prrvchr.github.io/mDriveOOo/img/mDriveOOo.png>
+[28]: <https://github.com/prrvchr/mDriveOOo/>
+[29]: <https://github.com/prrvchr/mDriveOOo/raw/master/source/mDriveOOo/dist/mDriveOOo.oxt>
+[30]: <https://prrvchr.github.io/mDriveOOo/>
 [31]: <https://prrvchr.github.io/dDriveOOo/img/dDriveOOo.png>
 [32]: <https://github.com/prrvchr/dDriveOOo/>
 [33]: <https://github.com/prrvchr/dDriveOOo/raw/master/source/dDriveOOo/dist/dDriveOOo.oxt>
