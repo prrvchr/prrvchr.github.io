@@ -5,7 +5,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 favicon: true
-logo: /img/Github.png
+logo: /img/github.svg#medium
 title: Github
 description: Let's try to make free software smarter
 sidebar:
