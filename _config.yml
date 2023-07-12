@@ -6,7 +6,9 @@ plugins:
   - jemoji
 favicon: true
 logo: /img/github.svg
+email: prrvchr@gmail.com
 title: Github
+blank_title: true
 description: Let's try to make free software smarter
 sidebar:
   - name: Repositories
