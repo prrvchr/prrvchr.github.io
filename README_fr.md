@@ -123,7 +123,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [15]: <https://github.com/prrvchr/gContactOOo/>
 [16]: <https://github.com/prrvchr/gContactOOo/raw/master/source/gContactOOo/dist/gContactOOo.oxt>
 [17]: <https://prrvchr.github.io/gContactOOo/README_fr>
-[18]: <https://prrvchr.github.io/mContactOOo/img/mContactOOo.png>
+[18]: <https://prrvchr.github.io/mContactOOo/img/mContactOOo.svg>
 [19]: <https://github.com/prrvchr/mContactOOo/>
 [20]: <https://outlook.live.com/mail/0/>
 [21]: <https://github.com/prrvchr/mContactOOo/raw/main/source/mContactOOo/dist/mContactOOo.oxt>
@@ -140,7 +140,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [32]: <https://github.com/prrvchr/dDriveOOo/>
 [33]: <https://github.com/prrvchr/dDriveOOo/raw/master/source/dDriveOOo/dist/dDriveOOo.oxt>
 [34]: <https://prrvchr.github.io/dDriveOOo/README_fr>
-[35]: <https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.png>
+[35]: <https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.svg>
 [36]: <https://github.com/prrvchr/OAuth2OOo/>
 [37]: <https://github.com/prrvchr/OAuth2OOo/raw/master/OAuth2OOo.oxt>
 [38]: <https://prrvchr.github.io/OAuth2OOo/README_fr>
