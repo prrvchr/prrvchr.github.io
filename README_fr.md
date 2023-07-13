@@ -114,12 +114,12 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [6]: <https://github.com/prrvchr/smtpMailerOOo/>
 [7]: <https://github.com/prrvchr/smtpMailerOOo/raw/master/source/smtpMailerOOo/dist/smtpMailerOOo.oxt>
 [8]: <https://prrvchr.github.io/smtpMailerOOo/README_fr>
-[9]: <https://prrvchr.github.io/vCardOOo/img/vCardOOo.png>
+[9]: <https://prrvchr.github.io/vCardOOo/img/vCardOOo.svg>
 [10]: <https://github.com/prrvchr/vCardOOo/>
 [11]: <https://fr.wikipedia.org/wiki/Nextcloud>
 [12]: <https://github.com/prrvchr/vCardOOo/raw/main/source/vCardOOo/dist/vCardOOo.oxt>
 [13]: <https://prrvchr.github.io/vCardOOo/README_fr>
-[14]: <https://prrvchr.github.io/gContactOOo/img/gContactOOo.png>
+[14]: <https://prrvchr.github.io/gContactOOo/img/gContactOOo.svg>
 [15]: <https://github.com/prrvchr/gContactOOo/>
 [16]: <https://github.com/prrvchr/gContactOOo/raw/master/source/gContactOOo/dist/gContactOOo.oxt>
 [17]: <https://prrvchr.github.io/gContactOOo/README_fr>
