@@ -82,11 +82,11 @@ Téléchargement direct: [jdbcDriverOOo.oxt][41]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][42].
 
-### ![HsqlDBembeddedOOo logo][43] [HsqlDBembeddedOOo][44]
+### ![HsqlDriverOOo logo][43] [HsqlDriverOOo][44]
 
 Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
 
-Téléchargement direct: [HsqlDBembeddedOOo.oxt][45]
+Téléchargement direct: [HsqlDriverOOo.oxt][45]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][46].
 
@@ -148,10 +148,10 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [40]: <https://github.com/prrvchr/jdbcDriverOOo/>
 [41]: <https://github.com/prrvchr/jdbcDriverOOo/raw/master/source/jdbcDriverOOo/dist/jdbcDriverOOo.oxt>
 [42]: <https://prrvchr.github.io/jdbcDriverOOo/README_fr>
-[43]: <https://prrvchr.github.io/HsqlDBembeddedOOo/img/HsqlDBembeddedOOo.png>
-[44]: <https://github.com/prrvchr/HsqlDBembeddedOOo>
-[45]: <https://github.com/prrvchr/HsqlDBembeddedOOo/raw/master/source/HsqlDBembeddedOOo/dist/HsqlDBembeddedOOo.oxt>
-[46]: <https://prrvchr.github.io/HsqlDBembeddedOOo/README_fr>
+[43]: <https://prrvchr.github.io/HsqlDriverOOo/img/HsqlDriverOOo.svg>
+[44]: <https://github.com/prrvchr/HsqlDriverOOo>
+[45]: <https://github.com/prrvchr/HsqlDriverOOo/raw/master/source/HsqlDriverOOo/dist/HsqlDriverOOo.oxt>
+[46]: <https://prrvchr.github.io/HsqlDriverOOo/README_fr>
 [47]: <https://kicad-pcb.org/download/>
 [48]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
 [49]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/archive/v0.0.5.zip>
