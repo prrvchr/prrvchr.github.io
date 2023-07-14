@@ -144,7 +144,7 @@ Regarding installation, configuration and use, please consult the [documentation
 [36]: <https://github.com/prrvchr/OAuth2OOo>
 [37]: <https://github.com/prrvchr/OAuth2OOo/raw/master/OAuth2OOo.oxt>
 [38]: <https://prrvchr.github.io/OAuth2OOo/>
-[39]: <https://prrvchr.github.io/jdbcDriverOOo/img/jdbcDriverOOo.png>
+[39]: <https://prrvchr.github.io/jdbcDriverOOo/img/jdbcDriverOOo.svg>
 [40]: <https://github.com/prrvchr/jdbcDriverOOo/>
 [41]: <https://github.com/prrvchr/jdbcDriverOOo/raw/master/source/jdbcDriverOOo/dist/jdbcDriverOOo.oxt>
 [42]: <https://prrvchr.github.io/jdbcDriverOOo/>
