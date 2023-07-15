@@ -10,11 +10,11 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 ## Extensions [LibreOffice][3] / [OpenOffice][4]:
 
-### ![smtpMailerOOo logo][5] [smtpMailerOOo][6]
+### ![eMailerOOo logo][5] [eMailerOOo][6]
 
 Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
 
-Téléchargement direct: [smtpMailerOOo.oxt][7]
+Téléchargement direct: [eMailerOOo.oxt][7]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][8].
 
@@ -110,10 +110,10 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [2]: <https://prrvchr.github.io/>
 [3]: <https://fr.libreoffice.org/download/telecharger-libreoffice/>
 [4]: <https://www.openoffice.org/fr/Telecharger/>
-[5]: <https://prrvchr.github.io/smtpMailerOOo/img/smtpMailerOOo.png>
-[6]: <https://github.com/prrvchr/smtpMailerOOo/>
-[7]: <https://github.com/prrvchr/smtpMailerOOo/raw/master/source/smtpMailerOOo/dist/smtpMailerOOo.oxt>
-[8]: <https://prrvchr.github.io/smtpMailerOOo/README_fr>
+[5]: <https://prrvchr.github.io/eMailerOOo/img/eMailerOOo.svg>
+[6]: <https://github.com/prrvchr/eMailerOOo/>
+[7]: <https://github.com/prrvchr/eMailerOOo/raw/master/source/eMailerOOo/dist/eMailerOOo.oxt>
+[8]: <https://prrvchr.github.io/eMailerOOo/README_fr>
 [9]: <https://prrvchr.github.io/vCardOOo/img/vCardOOo.svg>
 [10]: <https://github.com/prrvchr/vCardOOo/>
 [11]: <https://fr.wikipedia.org/wiki/Nextcloud>

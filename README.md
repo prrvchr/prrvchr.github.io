@@ -10,11 +10,11 @@ Below is a list of extensions that make free software more innovative:
 
 ## [LibreOffice][3] / [OpenOffice][4] extensions:
 
-### ![smtpMailerOOo logo][5] [smtpMailerOOo][6]
+### ![eMailerOOo logo][5] [eMailerOOo][6]
 
 This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.
 
-Direct download: [smtpMailerOOo.oxt][7]
+Direct download: [eMailerOOo.oxt][7]
 
 Regarding installation, configuration and use, please consult the [documentation][8].
 
@@ -110,10 +110,10 @@ Regarding installation, configuration and use, please consult the [documentation
 [2]: <https://prrvchr.github.io/README_fr>
 [3]: <https://www.libreoffice.org/download/download/>
 [4]: <https://www.openoffice.org/download/index.html>
-[5]: <https://prrvchr.github.io/smtpMailerOOo/img/smtpMailerOOo.png>
-[6]: <https://github.com/prrvchr/smtpMailerOOo/>
-[7]: <https://github.com/prrvchr/smtpMailerOOo/raw/master/source/smtpMailerOOo/dist/smtpMailerOOo.oxt>
-[8]: <https://prrvchr.github.io/smtpMailerOOo/>
+[5]: <https://prrvchr.github.io/eMailerOOo/img/eMailerOOo.svg>
+[6]: <https://github.com/prrvchr/eMailerOOo/>
+[7]: <https://github.com/prrvchr/eMailerOOo/raw/master/source/eMailerOOo/dist/eMailerOOo.oxt>
+[8]: <https://prrvchr.github.io/eMailerOOo/>
 [9]: <https://prrvchr.github.io/vCardOOo/img/vCardOOo.svg>
 [10]: <https://github.com/prrvchr/vCardOOo/>
 [11]: <https://en.wikipedia.org/wiki/Nextcloud>
