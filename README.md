@@ -82,7 +82,7 @@ Direct download: [jdbcDriverOOo.oxt][41]
 
 Regarding installation, configuration and use, please consult the [documentation][42].
 
-### ![HsqlDBembeddedOOo logo][43] [HsqlDBembeddedOOo][44]
+### ![HsqlDriverOOo logo][43] [HsqlDriverOOo][44]
 
 This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
 
