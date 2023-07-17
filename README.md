@@ -84,7 +84,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 ### ![HsqlDriverOOo logo][43] [HsqlDriverOOo][44]
 
-This extension gives you access to the Embedded HsqlDB database while being able to take advantage of an advanced HsqlDB driver.
+This extension allows you to use the latest version of HsqlDB (2.7.2) in a single odb file (embedded HsqlDB).
 
 Direct download: [HsqlDriverOOo.oxt][45]
 

@@ -84,7 +84,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![HsqlDriverOOo logo][43] [HsqlDriverOOo][44]
 
-Cette extension vous donne accès à la base de données HsqlDB intégrée tout en pouvant profiter d'un pilote HsqlDB avancé.
+Cette extension vous permet d'utiliser la dernière version de HsqlDB (2.7.2) dans un seul fichier odb (HsqlDB intégrée).
 
 Téléchargement direct: [HsqlDriverOOo.oxt][45]
 
