@@ -90,21 +90,29 @@ Direct download: [HsqlDriverOOo.oxt][45]
 
 Regarding installation, configuration and use, please consult the [documentation][46].
 
-## [KiCad][47] plugins:
+### ![SQLiteOOo logo][47] [SQLiteOOo][48]
 
-### [KiCad-BOM-CPL-Plugin][48]
+This extension allows you to use the latest version of SQLite JDBC (3.42.0.0) in a single odb file (embedded SQLite).
 
-Direct download: [KiCad-BOM-CPL-Plugin][49]
+Direct download: [SQLiteOOo.oxt][49]
 
 Regarding installation, configuration and use, please consult the [documentation][50].
 
-## [FreeCAD][51] workbench:
+## [KiCad][51] plugins:
 
-### [USBTerminal][52]
+### [KiCad-BOM-CPL-Plugin][52]
 
-Direct download: [USBTerminal][53]
+Direct download: [KiCad-BOM-CPL-Plugin][53]
 
 Regarding installation, configuration and use, please consult the [documentation][54].
+
+## [FreeCAD][55] workbench:
+
+### [USBTerminal][56]
+
+Direct download: [USBTerminal][57]
+
+Regarding installation, configuration and use, please consult the [documentation][58].
 
 [1]: <https://github.com/prrvchr?tab=repositories>
 [2]: <https://prrvchr.github.io/README_fr>
@@ -152,11 +160,15 @@ Regarding installation, configuration and use, please consult the [documentation
 [44]: <https://github.com/prrvchr/HsqlDriverOOo>
 [45]: <https://github.com/prrvchr/HsqlDriverOOo/raw/master/source/HsqlDriverOOo/dist/HsqlDriverOOo.oxt>
 [46]: <https://prrvchr.github.io/HsqlDriverOOo/>
-[47]: <https://kicad-pcb.org/download/>
-[48]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
-[49]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/archive/v0.0.5.zip>
-[50]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
-[51]: <https://www.freecadweb.org/downloads.php>
-[52]: <https://github.com/prrvchr/USBTerminal/>
-[53]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
-[54]: <https://prrvchr.github.io/USBTerminal/>
+[47]: <https://prrvchr.github.io/SQLiteOOo/img/SQLiteOOo.svg>
+[48]: <https://github.com/prrvchr/SQLiteOOo>
+[49]: <https://github.com/prrvchr/SQLiteOOo/raw/main/source/SQLiteOOo/dist/SQLiteOOo.oxt>
+[50]: <https://prrvchr.github.io/SQLiteOOo/>
+[51]: <https://kicad-pcb.org/download/>
+[52]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
+[53]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/archive/v0.0.5.zip>
+[54]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
+[55]: <https://www.freecadweb.org/downloads.php>
+[56]: <https://github.com/prrvchr/USBTerminal/>
+[57]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
+[58]: <https://prrvchr.github.io/USBTerminal/>
