@@ -82,11 +82,11 @@ Téléchargement direct: [jdbcDriverOOo.oxt][41]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][42].
 
-### ![HsqlDriverOOo logo][43] [HsqlDriverOOo][44]
+### ![HyperSQLOOo logo][43] [HyperSQLOOo][44]
 
 Cette extension vous permet d'utiliser la dernière version de HsqlDB (2.7.2) dans un seul fichier odb (HsqlDB intégrée).
 
-Téléchargement direct: [HsqlDriverOOo.oxt][45]
+Téléchargement direct: [HyperSQLOOo.oxt][45]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][46].
 
@@ -156,10 +156,10 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [40]: <https://github.com/prrvchr/jdbcDriverOOo/>
 [41]: <https://github.com/prrvchr/jdbcDriverOOo/raw/master/source/jdbcDriverOOo/dist/jdbcDriverOOo.oxt>
 [42]: <https://prrvchr.github.io/jdbcDriverOOo/README_fr>
-[43]: <https://prrvchr.github.io/HsqlDriverOOo/img/HsqlDriverOOo.svg>
-[44]: <https://github.com/prrvchr/HsqlDriverOOo>
-[45]: <https://github.com/prrvchr/HsqlDriverOOo/raw/master/source/HsqlDriverOOo/dist/HsqlDriverOOo.oxt>
-[46]: <https://prrvchr.github.io/HsqlDriverOOo/README_fr>
+[43]: <https://prrvchr.github.io/HyperSQLOOo/img/HyperSQLOOo.svg>
+[44]: <https://github.com/prrvchr/HyperSQLOOo>
+[45]: <https://github.com/prrvchr/HyperSQLOOo/raw/master/source/HyperSQLOOo/dist/HyperSQLOOo.oxt>
+[46]: <https://prrvchr.github.io/HyperSQLOOo/README_fr>
 [47]: <https://prrvchr.github.io/SQLiteOOo/img/SQLiteOOo.svg>
 [48]: <https://github.com/prrvchr/SQLiteOOo>
 [49]: <https://github.com/prrvchr/SQLiteOOo/raw/main/source/SQLiteOOo/dist/SQLiteOOo.oxt>
