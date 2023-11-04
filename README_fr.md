@@ -12,7 +12,8 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 
 ### ![eMailerOOo logo][5] [eMailerOOo][6]
 
-Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.
+Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.  
+Elle fournit en plus une API utilisable en BASIC permettant d'envoyer des courriels et supportant les technologies les plus avancées (protocole OAuth2, Mozilla IspDB, HTTP au lieu de SMTP/IMAP, ...).  
 
 Téléchargement direct: [eMailerOOo.oxt][7]
 
