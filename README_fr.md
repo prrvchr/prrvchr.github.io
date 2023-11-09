@@ -15,7 +15,7 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.  
 Elle fournit en plus une API utilisable en BASIC permettant d'envoyer des courriels et supportant les technologies les plus avancées (protocole OAuth2, Mozilla IspDB, HTTP au lieu de SMTP/IMAP, ...).  
 
-Téléchargement direct: [eMailerOOo.oxt][7]  [![Download][8]][7]  
+Téléchargement direct: **[eMailerOOo.oxt][7]** [![Download][8]][7]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][9].
 
@@ -23,7 +23,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous donne accès dans LibreOffice / OpenOffice, à vos contacts présent sur une plateforme [**Nextcloud**][12] (ou tous serveurs compatible Nextcloud).
 
-Téléchargement direct: [vCardOOo.oxt][13]  [![Download][14]][13]  
+Téléchargement direct: **[vCardOOo.oxt][13]** [![Download][14]][13]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][15].
 
@@ -31,7 +31,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice / OpenOffice (les contacts de votre téléphone Android).
 
-Téléchargement direct: [gContactOOo.oxt][18]  [![Download][19]][18]  
+Téléchargement direct: **[gContactOOo.oxt][18]** [![Download][19]][18]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][20].
 
@@ -39,7 +39,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous donne accès à vos contacts Microsoft Outlook dans LibreOffice / OpenOffice (les contacts de votre [client de messagerie Outlook][23]).
 
-Téléchargement direct: [mContactOOo.oxt][24]  [![Download][25]][24]  
+Téléchargement direct: **[mContactOOo.oxt][24]** [![Download][25]][24]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][26].
 
@@ -47,7 +47,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet de travailler sous LibreOffice / OpenOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
 
-Téléchargement direct: [gDriveOOo.oxt][29]  [![Download][30]][29]  
+Téléchargement direct: **[gDriveOOo.oxt][29]** [![Download][30]][29]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][31].
 
@@ -55,7 +55,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos fichiers Microsoft OneDrive, même hors ligne.
 
-Téléchargement direct: [mDriveOOo.oxt][34]  [![Download][35]][34]  
+Téléchargement direct: **[mDriveOOo.oxt][34]** [![Download][35]][34]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][36].
 
@@ -63,7 +63,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos fichiers Dropbox, même hors ligne.
 
-Téléchargement direct: [dDriveOOo.oxt][39]  [![Download][40]][39]  
+Téléchargement direct: **[dDriveOOo.oxt][39]** [![Download][40]][39]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][41].
 
@@ -71,7 +71,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension est l'implémentation du protocole OAuth 2.0. Protocole permettant d'obtenir votre consentement pour qu'une application puisse accéder à vos données présentes chez les GAFA.
 
-Téléchargement direct: [OAuth2OOo.oxt][44]  [![Download][45]][44]  
+Téléchargement direct: **[OAuth2OOo.oxt][44]** [![Download][45]][44]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][46].
 
@@ -79,7 +79,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Les derniers pilotes JDBC enfin disponibles dans Base.
 
-Téléchargement direct: [jdbcDriverOOo.oxt][49]  [![Download][50]][49]  
+Téléchargement direct: **[jdbcDriverOOo.oxt][49]** [![Download][50]][49]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][51].
 
@@ -87,7 +87,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet d'utiliser la dernière version de HsqlDB (2.7.2) dans un seul fichier odb (HsqlDB intégrée).
 
-Téléchargement direct: [HyperSQLOOo.oxt][54]  [![Download][55]][54]  
+Téléchargement direct: **[HyperSQLOOo.oxt][54]** [![Download][55]][54]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][56].
 
@@ -95,7 +95,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 Cette extension vous permet d'utiliser la dernière version de SQLite JDBC (3.42.0.0) dans un seul fichier odb (SQLite intégrée).
 
-Téléchargement direct: [SQLiteOOo.oxt][59]  [![Download][60]][59]  
+Téléchargement direct: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][61].
 
@@ -103,7 +103,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### [KiCad-BOM-CPL-Plugin][63]
 
-Téléchargement direct: [KiCad-BOM-CPL-Plugin][64]
+Téléchargement direct: **[KiCad-BOM-CPL-Plugin][64]**
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][65].
 
@@ -111,7 +111,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### [USBTerminal][67]
 
-Téléchargement direct: [USBTerminal][68]
+Téléchargement direct: **[USBTerminal][68]**
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][69].
 
