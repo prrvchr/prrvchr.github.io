@@ -184,3 +184,4 @@ Regarding installation, configuration and use, please consult the [documentation
 [67]: <https://github.com/prrvchr/USBTerminal/>
 [68]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
 [69]: <https://prrvchr.github.io/USBTerminal/>
+
