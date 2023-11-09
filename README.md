@@ -23,7 +23,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [**Nextcloud**][12] platform (or any Nextcloud compatible server).
 
-Direct download: [vCardOOo.oxt][13] [![Download][14]][13]
+Direct download: [vCardOOo.oxt][13] ![Download][14]
 
 Regarding installation, configuration and use, please consult the [documentation][15].
 
@@ -31,7 +31,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access to your phone contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
 
-Direct download: [gContactOOo.oxt][18] [![Download][19]][18]
+Direct download: [gContactOOo.oxt][18] ![Download][19]
 
 Regarding installation, configuration and use, please consult the [documentation][20].
 
@@ -39,7 +39,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access to your Microsoft Outlook contacts in LibreOffice / OpenOffice (the contacts of your [Outlook email client][23]).
 
-Direct download: [mContactOOo.oxt][24] [![Download][25]][24]
+Direct download: [mContactOOo.oxt][24] ![Download][25]
 
 Regarding installation, configuration and use, please consult the [documentation][26].
 
@@ -47,7 +47,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice / OpenOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
 
-Direct download: [gDriveOOo.oxt][29] [![Download][30]][29]
+Direct download: [gDriveOOo.oxt][29] ![Download][30]
 
 Regarding installation, configuration and use, please consult the [documentation][31].
 
@@ -55,7 +55,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
 
-Direct download: [mDriveOOo.oxt][34] [![Download][35]][34]
+Direct download: [mDriveOOo.oxt][34] ![Download][35]
 
 Regarding installation, configuration and use, please consult the [documentation][36].
 
@@ -63,7 +63,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice / OpenOffice on your Dropbox files, even while offline.
 
-Direct download: [dDriveOOo.oxt][39] [![Download][40]][39]
+Direct download: [dDriveOOo.oxt][39] ![Download][40]
 
 Regarding installation, configuration and use, please consult the [documentation][41].
 
@@ -71,7 +71,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.
 
-Direct download: [OAuth2OOo.oxt][44] [![Download][45]][44]
+Direct download: [OAuth2OOo.oxt][44] ![Download][45]
 
 Regarding installation, configuration and use, please consult the [documentation][46].
 
@@ -79,7 +79,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 The latest JDBC drivers finally available in Base.
 
-Direct download: [jdbcDriverOOo.oxt][49] [![Download][50]][49]
+Direct download: [jdbcDriverOOo.oxt][49] ![Download][50]
 
 Regarding installation, configuration and use, please consult the [documentation][51].
 
@@ -87,7 +87,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to use the latest version of HsqlDB (2.7.2) in a single odb file (embedded HsqlDB).
 
-Direct download: [HyperSQLOOo.oxt][54] [![Download][55]][54]
+Direct download: [HyperSQLOOo.oxt][54] ![Download][55]
 
 Regarding installation, configuration and use, please consult the [documentation][56].
 
@@ -95,7 +95,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to use the latest version of SQLite JDBC (3.42.0.0) in a single odb file (embedded SQLite).
 
-Direct download: [SQLiteOOo.oxt][59] [![Download][60]][59]
+Direct download: [SQLiteOOo.oxt][59] ![Download][60]
 
 Regarding installation, configuration and use, please consult the [documentation][61].
 
@@ -184,4 +184,3 @@ Regarding installation, configuration and use, please consult the [documentation
 [67]: <https://github.com/prrvchr/USBTerminal/>
 [68]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
 [69]: <https://prrvchr.github.io/USBTerminal/>
-
