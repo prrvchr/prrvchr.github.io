@@ -184,4 +184,3 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [67]: <https://github.com/prrvchr/USBTerminal/>
 [68]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
 [69]: <https://prrvchr.github.io/USBTerminal/README_fr>
-
