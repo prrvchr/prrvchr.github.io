@@ -103,17 +103,17 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### [KiCad-BOM-CPL-Plugin][63]
 
-Téléchargement direct: **[KiCad-BOM-CPL-Plugin][64]**
+Téléchargement direct: **[KiCad-BOM-CPL-Plugin][64]** [![Download][65]][64]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][65].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][66].
 
-## Workbench [FreeCAD][66]:
+## Workbench [FreeCAD][67]:
 
-### [USBTerminal][67]
+### [USBTerminal][68]
 
-Téléchargement direct: **[USBTerminal][68]**
+Téléchargement direct: **[USBTerminal][69]** [![Download][70]][69]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][69].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][71].
 
 [1]: <https://github.com/prrvchr?tab=repositories>
 [2]: <https://prrvchr.github.io/>
@@ -179,8 +179,10 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [62]: <https://kicad-pcb.org/download/>
 [63]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
 [64]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/archive/v0.0.5.zip>
-[65]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
-[66]: <https://www.freecadweb.org/?lang=fr>
-[67]: <https://github.com/prrvchr/USBTerminal/>
-[68]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
-[69]: <https://prrvchr.github.io/USBTerminal/README_fr>
+[65]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
+[66]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
+[67]: <https://www.freecadweb.org/?lang=fr>
+[68]: <https://github.com/prrvchr/USBTerminal/>
+[69]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
+[70]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
+[71]: <https://prrvchr.github.io/USBTerminal/README_fr>
