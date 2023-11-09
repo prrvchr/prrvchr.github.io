@@ -15,7 +15,7 @@ Below is a list of extensions that make free software more innovative:
 This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.  
 It also provides an API usable in BASIC allowing you to send emails and supporting the most advanced technologies (OAuth2 protocol, Mozilla IspDB, HTTP instead of SMTP/IMAP, ...).  
 
-Direct download: [eMailerOOo.oxt][7] [![Download][8]][7]
+Direct download: [eMailerOOo.oxt][7]  [![Download][8]][7]  
 
 Regarding installation, configuration and use, please consult the [documentation][9].
 
@@ -23,7 +23,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [**Nextcloud**][12] platform (or any Nextcloud compatible server).
 
-Direct download: [vCardOOo.oxt][13] [![Download][14]][13]
+Direct download: [vCardOOo.oxt][13]  [![Download][14]][13]  
 
 Regarding installation, configuration and use, please consult the [documentation][15].
 
@@ -31,7 +31,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access to your phone contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
 
-Direct download: [gContactOOo.oxt][18] [![Download][19]][18]
+Direct download: [gContactOOo.oxt][18]  [![Download][19]][18]  
 
 Regarding installation, configuration and use, please consult the [documentation][20].
 
@@ -39,7 +39,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension gives you access to your Microsoft Outlook contacts in LibreOffice / OpenOffice (the contacts of your [Outlook email client][23]).
 
-Direct download: [mContactOOo.oxt][24] [![Download][25]][24]
+Direct download: [mContactOOo.oxt][24]  [![Download][25]][24]  
 
 Regarding installation, configuration and use, please consult the [documentation][26].
 
@@ -47,7 +47,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice / OpenOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
 
-Direct download: [gDriveOOo.oxt][29] [![Download][30]][29]
+Direct download: [gDriveOOo.oxt][29]  [![Download][30]][29]  
 
 Regarding installation, configuration and use, please consult the [documentation][31].
 
@@ -55,7 +55,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
 
-Direct download: [mDriveOOo.oxt][34] [![Download][35]][34]
+Direct download: [mDriveOOo.oxt][34]  [![Download][35]][34]  
 
 Regarding installation, configuration and use, please consult the [documentation][36].
 
@@ -63,7 +63,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to work in LibreOffice / OpenOffice on your Dropbox files, even while offline.
 
-Direct download: [dDriveOOo.oxt][39] [![Download][40]][39]
+Direct download: [dDriveOOo.oxt][39]  [![Download][40]][39]  
 
 Regarding installation, configuration and use, please consult the [documentation][41].
 
@@ -71,7 +71,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.
 
-Direct download: [OAuth2OOo.oxt][44] [![Download][45]][44]
+Direct download: [OAuth2OOo.oxt][44]  [![Download][45]][44]  
 
 Regarding installation, configuration and use, please consult the [documentation][46].
 
@@ -79,7 +79,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 The latest JDBC drivers finally available in Base.
 
-Direct download: [jdbcDriverOOo.oxt][49] [![Download][50]][49]
+Direct download: [jdbcDriverOOo.oxt][49]  [![Download][50]][49]  
 
 Regarding installation, configuration and use, please consult the [documentation][51].
 
@@ -87,7 +87,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to use the latest version of HsqlDB (2.7.2) in a single odb file (embedded HsqlDB).
 
-Direct download: [HyperSQLOOo.oxt][54] [![Download][55]][54]
+Direct download: [HyperSQLOOo.oxt][54]  [![Download][55]][54]  
 
 Regarding installation, configuration and use, please consult the [documentation][56].
 
@@ -95,7 +95,7 @@ Regarding installation, configuration and use, please consult the [documentation
 
 This extension allows you to use the latest version of SQLite JDBC (3.42.0.0) in a single odb file (embedded SQLite).
 
-Direct download: [SQLiteOOo.oxt][59] [![Download][60]][59]
+Direct download: [SQLiteOOo.oxt][59]  [![Download][60]][59]  
 
 Regarding installation, configuration and use, please consult the [documentation][61].
 
