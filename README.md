@@ -33,7 +33,6 @@ This extension gives you access to your phone contacts in LibreOffice / OpenOffi
 
 Direct download: [gContactOOo.oxt][18] [![Download][19]][18]
 
-
 Regarding installation, configuration and use, please consult the [documentation][20].
 
 ### ![mContactOOo logo][21] [mContactOOo][22]
