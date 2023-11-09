@@ -15,7 +15,7 @@ Below is a list of extensions that make free software more innovative:
 This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.  
 It also provides an API usable in BASIC allowing you to send emails and supporting the most advanced technologies (OAuth2 protocol, Mozilla IspDB, HTTP instead of SMTP/IMAP, ...).  
 
-Direct download: [eMailerOOo.oxt][7] [![Download][8]][7]
+Direct download: [eMailerOOo.oxt][7] ![Download][8]
 
 Regarding installation, configuration and use, please consult the [documentation][9].
 
@@ -184,3 +184,4 @@ Regarding installation, configuration and use, please consult the [documentation
 [67]: <https://github.com/prrvchr/USBTerminal/>
 [68]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
 [69]: <https://prrvchr.github.io/USBTerminal/>
+

@@ -15,7 +15,7 @@ Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres pl
 Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.  
 Elle fournit en plus une API utilisable en BASIC permettant d'envoyer des courriels et supportant les technologies les plus avancées (protocole OAuth2, Mozilla IspDB, HTTP au lieu de SMTP/IMAP, ...).  
 
-Téléchargement direct: [eMailerOOo.oxt][7] [![Download][8]][7]
+Téléchargement direct: [eMailerOOo.oxt][7] ![Download][8]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][9].
 
@@ -184,3 +184,4 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [67]: <https://github.com/prrvchr/USBTerminal/>
 [68]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
 [69]: <https://prrvchr.github.io/USBTerminal/README_fr>
+
