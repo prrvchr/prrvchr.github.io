@@ -1,4 +1,4 @@
-# Welcome to prrvchr [repositories][1]
+# [![GitHub logo][72]][73] Welcome to prrvchr [repositories][1]
 
 **Ce [document][2] en français.**
 
@@ -186,3 +186,5 @@ Regarding installation, configuration and use, please consult the [documentation
 [69]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
 [70]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
 [71]: <https://prrvchr.github.io/USBTerminal/>
+[72]: </img/github.svg>
+[73]: <https://prrvchr.github.io/>
