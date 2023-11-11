@@ -1,5 +1,7 @@
 # Welcome to prrvchr [repositories][1]
 
+[**This document in GitHub Pages**][0]
+
 **Ce [document][2] en français.**
 
 To answer the adage: **"Free software only offers what we give it."**
@@ -115,6 +117,7 @@ Direct download: **[USBTerminal][69]** [![Download][70]][69]
 
 Regarding installation, configuration and use, please consult the [documentation][71].
 
+[0]: <https://prrvchr.github.io/>
 [1]: <https://github.com/prrvchr?tab=repositories>
 [2]: <https://prrvchr.github.io/README_fr>
 [3]: <https://www.libreoffice.org/download/download/>
