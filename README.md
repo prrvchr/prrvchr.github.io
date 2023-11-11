@@ -1,4 +1,4 @@
-# [![GitHub logo][-1]][0] Welcome to prrvchr [repositories][1]
+# [![GitHub logo][0]][-1] Welcome to prrvchr [repositories][1]
 
 **Ce [document][2] en français.**
 
@@ -115,8 +115,8 @@ Direct download: **[USBTerminal][69]** [![Download][70]][69]
 
 Regarding installation, configuration and use, please consult the [documentation][71].
 
-[-1]: </img/github.svg#collapse>
-[0]: <https://prrvchr.github.io/>
+[0]: </img/github.svg#collapse>
+[-1]: <https://prrvchr.github.io/>
 [1]: <https://github.com/prrvchr?tab=repositories>
 [2]: <https://prrvchr.github.io/README_fr>
 [3]: <https://www.libreoffice.org/download/download/>
