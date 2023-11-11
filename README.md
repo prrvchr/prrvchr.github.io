@@ -178,7 +178,7 @@ Regarding installation, configuration and use, please consult the [documentation
 [61]: <https://prrvchr.github.io/SQLiteOOo/>
 [62]: <https://kicad-pcb.org/download/>
 [63]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
-[64]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/archive/v0.0.5.zip>
+[64]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/releases/latest/download/bom-cpl-plugin.py>
 [65]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
 [66]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
 [67]: <https://www.freecadweb.org/downloads.php>
