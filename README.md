@@ -115,7 +115,7 @@ Direct download: **[USBTerminal][69]** [![Download][70]][69]
 
 Regarding installation, configuration and use, please consult the [documentation][71].
 
-[-1]: </img/github.svg>
+[-1]: </img/github.svg#collapse>
 [0]: <https://prrvchr.github.io/>
 [1]: <https://github.com/prrvchr?tab=repositories>
 [2]: <https://prrvchr.github.io/README_fr>
