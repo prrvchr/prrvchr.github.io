@@ -183,6 +183,6 @@ Regarding installation, configuration and use, please consult the [documentation
 [66]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
 [67]: <https://www.freecadweb.org/downloads.php>
 [68]: <https://github.com/prrvchr/USBTerminal/>
-[69]: <https://github.com/prrvchr/USBTerminal/archive/v0.7.zip>
+[69]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
 [70]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
 [71]: <https://prrvchr.github.io/USBTerminal/>
