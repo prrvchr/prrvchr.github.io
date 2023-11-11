@@ -189,3 +189,4 @@ Regarding installation, configuration and use, please consult the [documentation
 [69]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
 [70]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
 [71]: <https://prrvchr.github.io/USBTerminal/>
+
