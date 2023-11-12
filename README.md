@@ -33,6 +33,8 @@ My idea was to develop extensions to free software in order to provide them with
 
 Below is a list of extensions that make free software more innovative:
 
+___
+
 ## [LibreOffice][3] / [OpenOffice][4] extensions:
 
 ### ![eMailerOOo logo][5] [eMailerOOo][6]
@@ -124,6 +126,8 @@ Direct download: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
 Regarding installation, configuration and use, please consult the [documentation][61].
 
+___
+
 ## [KiCad][62] plugins:
 
 ### [KiCad-BOM-CPL-Plugin][63]
@@ -131,6 +135,8 @@ Regarding installation, configuration and use, please consult the [documentation
 Direct download: **[KiCad-BOM-CPL-Plugin][64]** [![Download][65]][64]
 
 Regarding installation, configuration and use, please consult the [documentation][66].
+
+___
 
 ## [FreeCAD][67] workbench:
 

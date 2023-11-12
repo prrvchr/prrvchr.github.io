@@ -33,6 +33,8 @@ J'ai eu pour idée de developper des extensions à des logiciels libre afin de l
 
 Vous trouverez ci-dessous une liste d'extensions rendant les logiciels libres plus inovants:
 
+___
+
 ## Extensions [LibreOffice][3] / [OpenOffice][4]:
 
 ### ![eMailerOOo logo][5] [eMailerOOo][6]
@@ -124,6 +126,8 @@ Téléchargement direct: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][61].
 
+___
+
 ## Plugins [KiCad][62]:
 
 ### [KiCad-BOM-CPL-Plugin][63]
@@ -131,6 +135,8 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 Téléchargement direct: **[KiCad-BOM-CPL-Plugin][64]** [![Download][65]][64]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][66].
+
+___
 
 ## Workbench [FreeCAD][67]:
 
