@@ -44,7 +44,7 @@ Elle fournit en plus une API utilisable en BASIC permettant d'envoyer des courri
 
 Téléchargement direct: **[eMailerOOo.oxt][7]** [![Download][8]][7]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][9].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][9]**.
 
 ### ![vCardOOo logo][10] [vCardOOo][11]
 
@@ -52,7 +52,7 @@ Cette extension vous donne accès dans LibreOffice / OpenOffice, à vos contacts
 
 Téléchargement direct: **[vCardOOo.oxt][13]** [![Download][14]][13]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][15].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][15]**.
 
 ### ![gContactOOo logo][16] [gContactOOo][17]
 
@@ -60,7 +60,7 @@ Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffi
 
 Téléchargement direct: **[gContactOOo.oxt][18]** [![Download][19]][18]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][20].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][20]**.
 
 ### ![mContactOOo logo][21] [mContactOOo][22]
 
@@ -68,7 +68,7 @@ Cette extension vous donne accès à vos contacts Microsoft Outlook dans LibreOf
 
 Téléchargement direct: **[mContactOOo.oxt][24]** [![Download][25]][24]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][26].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][26]**.
 
 ### ![gDriveOOo logo][27] [gDriveOOo][28]
 
@@ -76,7 +76,7 @@ Cette extension vous permet de travailler sous LibreOffice / OpenOffice sur vos 
 
 Téléchargement direct: **[gDriveOOo.oxt][29]** [![Download][30]][29]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][31].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][31]**.
 
 ### ![mDriveOOo logo][32] [mDriveOOo][33]
 
@@ -84,7 +84,7 @@ Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos 
 
 Téléchargement direct: **[mDriveOOo.oxt][34]** [![Download][35]][34]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][36].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][36]**.
 
 ### ![dDriveOOo logo][37] [dDriveOOo][38]
 
@@ -92,7 +92,7 @@ Cette extension vous permet de travailler dans LibreOffice / OpenOffice sur vos 
 
 Téléchargement direct: **[dDriveOOo.oxt][39]** [![Download][40]][39]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][41].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][41]**.
 
 ### ![OAuth2OOo logo][42] [OAuth2OOo][43]
 
@@ -100,7 +100,7 @@ Cette extension est l'implémentation du protocole OAuth 2.0. Protocole permetta
 
 Téléchargement direct: **[OAuth2OOo.oxt][44]** [![Download][45]][44]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][46].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][46]**.
 
 ### ![jdbcDriverOOo logo][47] [jdbcDriverOOo][48]
 
@@ -108,7 +108,7 @@ Les derniers pilotes JDBC enfin disponibles dans Base.
 
 Téléchargement direct: **[jdbcDriverOOo.oxt][49]** [![Download][50]][49]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][51].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][51]**.
 
 ### ![HyperSQLOOo logo][52] [HyperSQLOOo][53]
 
@@ -116,7 +116,7 @@ Cette extension vous permet d'utiliser la dernière version de HsqlDB (2.7.2) da
 
 Téléchargement direct: **[HyperSQLOOo.oxt][54]** [![Download][55]][54]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][56].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][56]**.
 
 ### ![SQLiteOOo logo][57] [SQLiteOOo][58]
 
@@ -124,7 +124,7 @@ Cette extension vous permet d'utiliser la dernière version de SQLite JDBC (3.42
 
 Téléchargement direct: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][61].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][61]**.
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 Téléchargement direct: **[KiCad-BOM-CPL-Plugin][64]** [![Download][65]][64]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][66].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][66]**.
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 Téléchargement direct: **[USBTerminal][69]** [![Download][70]][69]
 
-Concernant l'installation, la configuration et l'utilisation, veuillez consulter la [documentation][71].
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][71]**.
 
 
 

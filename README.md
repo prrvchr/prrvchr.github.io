@@ -44,7 +44,7 @@ It also provides an API usable in BASIC allowing you to send emails and supporti
 
 Direct download: **[eMailerOOo.oxt][7]** [![Download][8]][7]
 
-Regarding installation, configuration and use, please consult the [documentation][9].
+Regarding installation, configuration and use, please consult the **[documentation][9]**.
 
 ### ![vCardOOo logo][10] [vCardOOo][11]
 
@@ -52,7 +52,7 @@ This extension gives you access in LibreOffice / OpenOffice, to your contacts pr
 
 Direct download: **[vCardOOo.oxt][13]** [![Download][14]][13]
 
-Regarding installation, configuration and use, please consult the [documentation][15].
+Regarding installation, configuration and use, please consult the **[documentation][15]**.
 
 ### ![gContactOOo logo][16] [gContactOOo][17]
 
@@ -60,7 +60,7 @@ This extension gives you access to your phone contacts in LibreOffice / OpenOffi
 
 Direct download: **[gContactOOo.oxt][18]** [![Download][19]][18]
 
-Regarding installation, configuration and use, please consult the [documentation][20].
+Regarding installation, configuration and use, please consult the **[documentation][20]**.
 
 ### ![mContactOOo logo][21] [mContactOOo][22]
 
@@ -68,7 +68,7 @@ This extension gives you access to your Microsoft Outlook contacts in LibreOffic
 
 Direct download: **[mContactOOo.oxt][24]** [![Download][25]][24]
 
-Regarding installation, configuration and use, please consult the [documentation][26].
+Regarding installation, configuration and use, please consult the **[documentation][26]**.
 
 ### ![gDriveOOo logo][27] [gDriveOOo][28]
 
@@ -76,7 +76,7 @@ This extension allows you to work in LibreOffice / OpenOffice on your files on y
 
 Direct download: **[gDriveOOo.oxt][29]** [![Download][30]][29]
 
-Regarding installation, configuration and use, please consult the [documentation][31].
+Regarding installation, configuration and use, please consult the **[documentation][31]**.
 
 ### ![mDriveOOo logo][32] [mDriveOOo][33]
 
@@ -84,7 +84,7 @@ This extension allows you to work in LibreOffice / OpenOffice on your Microsoft 
 
 Direct download: **[mDriveOOo.oxt][34]** [![Download][35]][34]
 
-Regarding installation, configuration and use, please consult the [documentation][36].
+Regarding installation, configuration and use, please consult the **[documentation][36]**.
 
 ### ![dDriveOOo logo][37] [dDriveOOo][38]
 
@@ -92,7 +92,7 @@ This extension allows you to work in LibreOffice / OpenOffice on your Dropbox fi
 
 Direct download: **[dDriveOOo.oxt][39]** [![Download][40]][39]
 
-Regarding installation, configuration and use, please consult the [documentation][41].
+Regarding installation, configuration and use, please consult the **[documentation][41]**.
 
 ### ![OAuth2OOo logo][42] [OAuth2OOo][43]
 
@@ -100,7 +100,7 @@ This extension is the implementation of the OAuth 2.0 protocol. Protocol allowin
 
 Direct download: **[OAuth2OOo.oxt][44]** [![Download][45]][44]
 
-Regarding installation, configuration and use, please consult the [documentation][46].
+Regarding installation, configuration and use, please consult the **[documentation][46]**.
 
 ### ![jdbcDriverOOo logo][47] [jdbcDriverOOo][48]
 
@@ -108,7 +108,7 @@ The latest JDBC drivers finally available in Base.
 
 Direct download: **[jdbcDriverOOo.oxt][49]** [![Download][50]][49]
 
-Regarding installation, configuration and use, please consult the [documentation][51].
+Regarding installation, configuration and use, please consult the **[documentation][51]**.
 
 ### ![HyperSQLOOo logo][52] [HyperSQLOOo][53]
 
@@ -116,7 +116,7 @@ This extension allows you to use the latest version of HsqlDB (2.7.2) in a singl
 
 Direct download: **[HyperSQLOOo.oxt][54]** [![Download][55]][54]
 
-Regarding installation, configuration and use, please consult the [documentation][56].
+Regarding installation, configuration and use, please consult the **[documentation][56]**.
 
 ### ![SQLiteOOo logo][57] [SQLiteOOo][58]
 
@@ -124,7 +124,7 @@ This extension allows you to use the latest version of SQLite JDBC (3.42.0.0) in
 
 Direct download: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
-Regarding installation, configuration and use, please consult the [documentation][61].
+Regarding installation, configuration and use, please consult the **[documentation][61]**.
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 Direct download: **[KiCad-BOM-CPL-Plugin][64]** [![Download][65]][64]
 
-Regarding installation, configuration and use, please consult the [documentation][66].
+Regarding installation, configuration and use, please consult the **[documentation][66]**.
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 Direct download: **[USBTerminal][69]** [![Download][70]][69]
 
-Regarding installation, configuration and use, please consult the [documentation][71].
+Regarding installation, configuration and use, please consult the **[documentation][71]**.
 
 [0]: </img/github.svg#collapse>
 [-1]: <https://prrvchr.github.io/>
