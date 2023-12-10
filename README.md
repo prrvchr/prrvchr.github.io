@@ -140,11 +140,27 @@ ___
 
 ## [FreeCAD][67] workbench:
 
-### [USBTerminal][68]
+### [Blender Importer][68]
 
-Direct download: **[USBTerminal][69]** [![Download][70]][69]
+Direct download: **[Blender Importer][69]** [![Download][70]][69]
 
 Regarding installation, configuration and use, please consult the **[documentation][71]**.
+
+### [USBTerminal][72]
+
+Direct download: **[USBTerminal][73]** [![Download][74]][73]
+
+Regarding installation, configuration and use, please consult the **[documentation][75]**.
+
+___
+
+## [Blender][76] workbench:
+
+### [FreeCAD Importer][77]
+
+Direct download: **[FreeCAD Importer][78]** [![Download][79]][78]
+
+Regarding installation, configuration and use, please consult the **[documentation][80]**.
 
 [0]: </img/github.svg#collapse>
 [-1]: <https://prrvchr.github.io/>
@@ -215,7 +231,16 @@ Regarding installation, configuration and use, please consult the **[documentati
 [65]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
 [66]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
 [67]: <https://www.freecadweb.org/downloads.php>
-[68]: <https://github.com/prrvchr/USBTerminal/>
-[69]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
-[70]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
-[71]: <https://prrvchr.github.io/USBTerminal/>
+[68]: <https://github.com/prrvchr/Blender-Importer/>
+[69]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
+[70]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
+[71]: <https://prrvchr.github.io/Blender-Importer/>
+[72]: <https://github.com/prrvchr/USBTerminal/>
+[73]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
+[74]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
+[75]: <https://prrvchr.github.io/USBTerminal/>
+[76]: <https://www.blender.org/>
+[77]: <https://github.com/prrvchr/Blender-Importer/>
+[78]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
+[79]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
+[80]: <https://prrvchr.github.io/Blender-Importer/>
