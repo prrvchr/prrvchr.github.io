@@ -154,7 +154,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ___
 
-## [Blender][76] workbench:
+## [Blender][76] add-ons:
 
 ### [FreeCAD Importer][77]
 
