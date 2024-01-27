@@ -242,7 +242,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [76]: <https://prrvchr.github.io/USBTerminal/README_fr>
 [77]: <https://www.blender.org/>
 [78]: <https://prrvchr.github.io/FreeCAD-Importer/img/freecad.svg#middle>
-[79]: <https://github.com/prrvchr/Blender-Importer/>
-[80]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
-[81]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
-[82]: <https://prrvchr.github.io/Blender-Importer/>
+[79]: <https://github.com/prrvchr/FreeCAD-Importer/>
+[80]: <https://github.com/prrvchr/FreeCAD-Importer/releases/latest/download/FreeCAD-Importer.zip>
+[81]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
+[82]: <https://prrvchr.github.io/FreeCAD-Importer/>
