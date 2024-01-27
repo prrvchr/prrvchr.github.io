@@ -245,4 +245,4 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [79]: <https://github.com/prrvchr/FreeCAD-Importer/>
 [80]: <https://github.com/prrvchr/FreeCAD-Importer/releases/latest/download/FreeCAD-Importer.zip>
 [81]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
-[82]: <https://prrvchr.github.io/FreeCAD-Importer/>
+[82]: <https://prrvchr.github.io/FreeCAD-Importer/README_fr>
