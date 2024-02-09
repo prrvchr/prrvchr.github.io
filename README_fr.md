@@ -259,7 +259,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [81]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
 [82]: <https://prrvchr.github.io/FreeCAD-Importer/README_fr>
 [83]: <https://www.sqlite.org/index.html>
-[84]: <https://prrvchr.github.io/sqlite-jdbc/img/sqlite.svg#middle>
+[84]: <https://prrvchr.github.io/sqlite-jdbc/img/SQLiteJDBC.svg#middle>
 [85]: <https://github.com/prrvchr/sqlite-jdbc/>
 [86]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
 [87]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
