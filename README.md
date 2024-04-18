@@ -258,11 +258,11 @@ Regarding installation, configuration and use, please consult the **[documentati
 [64]: <https://github.com/prrvchr/H2dbOOo/releases/latest/download/H2dbOOo.oxt>
 [65]: <https://img.shields.io/github/downloads/prrvchr/H2dbOOo/total#right>
 [66]: <https://prrvchr.github.io/H2dbOOo/>
-[67]: <https://prrvchr.github.io/H2dbOOo/img/H2dbOOo.svg#middle>
-[68]: <https://github.com/prrvchr/H2dbOOo>
-[69]: <https://github.com/prrvchr/H2dbOOo/releases/latest/download/H2dbOOo.oxt>
-[70]: <https://img.shields.io/github/downloads/prrvchr/H2dbOOo/total#right>
-[71]: <https://prrvchr.github.io/H2dbOOo/>
+[67]: <https://prrvchr.github.io/DerbyOOo/img/DerbyOOo.svg#middle>
+[68]: <https://github.com/prrvchr/DerbyOOo>
+[69]: <https://github.com/prrvchr/DerbyOOo/releases/latest/download/DerbyOOo.oxt>
+[70]: <https://img.shields.io/github/downloads/prrvchr/DerbyOOo/total#right>
+[71]: <https://prrvchr.github.io/DerbyOOo/>
 [72]: <https://kicad-pcb.org/download/>
 [73]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
 [74]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/releases/latest/download/bom-cpl-plugin.py>
