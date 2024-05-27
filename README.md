@@ -126,69 +126,77 @@ Direct download: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
 Regarding installation, configuration and use, please consult the **[documentation][61]**.
 
-### ![H2dbOOo logo][62] [H2dbOOo][63]
+### ![JaybirdOOo logo][62] [JaybirdOOo][63]
 
-This extension allows you to use the latest version of H2 Database in a single odb file (embedded H2).
+This extension allows you to use the latest version of Jaybird in a single odb file (embedded Firebird).
 
-Direct download: **[H2dbOOo.oxt][64]** [![Download][65]][64]
+Direct download: **[JaybirdOOo.oxt][64]** [![Download][65]][64]
 
 Regarding installation, configuration and use, please consult the **[documentation][66]**.
 
-### ![DerbyOOo logo][67] [DerbyOOo][68]
+### ![H2dbOOo logo][67] [H2dbOOo][68]
 
-This extension allows you to use the latest version of Apache Derby in a single odb file (embedded Derby).
+This extension allows you to use the latest version of H2 Database in a single odb file (embedded H2).
 
-Direct download: **[DerbyOOo.oxt][69]** [![Download][70]][69]
+Direct download: **[H2dbOOo.oxt][69]** [![Download][70]][69]
 
 Regarding installation, configuration and use, please consult the **[documentation][71]**.
 
-___
+### ![DerbyOOo logo][72] [DerbyOOo][73]
 
-## [KiCad][72] plugins:
+This extension allows you to use the latest version of Apache Derby in a single odb file (embedded Derby).
 
-### [KiCad-BOM-CPL-Plugin][73]
-
-Direct download: **[KiCad-BOM-CPL-Plugin][74]** [![Download][75]][74]
+Direct download: **[DerbyOOo.oxt][74]** [![Download][75]][74]
 
 Regarding installation, configuration and use, please consult the **[documentation][76]**.
 
 ___
 
-## [FreeCAD][77] workbench:
+## [KiCad][77] plugins:
 
-### ![Blender Importer logo][78] [Blender Importer][79]
+### [KiCad-BOM-CPL-Plugin][78]
 
-Direct download: **[Blender Importer][80]** [![Download][81]][80]
+Direct download: **[KiCad-BOM-CPL-Plugin][79]** [![Download][80]][79]
 
-Regarding installation, configuration and use, please consult the **[documentation][82]**.
-
-### [USBTerminal][83]
-
-Direct download: **[USBTerminal][84]** [![Download][85]][84]
-
-Regarding installation, configuration and use, please consult the **[documentation][86]**.
+Regarding installation, configuration and use, please consult the **[documentation][81]**.
 
 ___
 
-## [Blender][87] add-ons:
+## [FreeCAD][82] workbench:
 
-### ![FreeCAD Importer logo][88] [FreeCAD Importer][89]
+### ![Blender Importer logo][83] [Blender Importer][84]
 
-Direct download: **[FreeCAD Importer][90]** [![Download][91]][90]
+Direct download: **[Blender Importer][85]** [![Download][86]][85]
 
-Regarding installation, configuration and use, please consult the **[documentation][92]**.
+Regarding installation, configuration and use, please consult the **[documentation][87]**.
+
+### [USBTerminal][88]
+
+Direct download: **[USBTerminal][89]** [![Download][90]][89]
+
+Regarding installation, configuration and use, please consult the **[documentation][91]**.
 
 ___
 
-## [SQLite][93]:
+## [Blender][92] add-ons:
 
-### ![SQlite JDBC][94] [SQLite JDBC][95]
+### ![FreeCAD Importer logo][93] [FreeCAD Importer][94]
+
+Direct download: **[FreeCAD Importer][95]** [![Download][96]][95]
+
+Regarding installation, configuration and use, please consult the **[documentation][97]**.
+
+___
+
+## [SQLite][98]:
+
+### ![SQlite JDBC][99] [SQLite JDBC][100]
 
 The SQLite driver full compliant JDBC 4.1.
 
-Direct download: **[sqlite-jdbc-3.45.1.6-SNAPSHOT.jar][96]** [![Download][97]][96]
+Direct download: **[sqlite-jdbc-3.45.1.6-SNAPSHOT.jar][101]** [![Download][102]][101]
 
-Regarding installation, configuration and use, please consult the **[documentation][98]**.
+Regarding installation, configuration and use, please consult the **[documentation][103]**.
 
 [0]: </img/github.svg#collapse>
 [-1]: <https://prrvchr.github.io/>
@@ -253,40 +261,45 @@ Regarding installation, configuration and use, please consult the **[documentati
 [59]: <https://github.com/prrvchr/SQLiteOOo/releases/latest/download/SQLiteOOo.oxt>
 [60]: <https://img.shields.io/github/downloads/prrvchr/SQLiteOOo/total#right>
 [61]: <https://prrvchr.github.io/SQLiteOOo/>
-[62]: <https://prrvchr.github.io/H2dbOOo/img/H2dbOOo.svg#middle>
-[63]: <https://github.com/prrvchr/H2dbOOo>
-[64]: <https://github.com/prrvchr/H2dbOOo/releases/latest/download/H2dbOOo.oxt>
-[65]: <https://img.shields.io/github/downloads/prrvchr/H2dbOOo/total#right>
-[66]: <https://prrvchr.github.io/H2dbOOo/>
-[67]: <https://prrvchr.github.io/DerbyOOo/img/DerbyOOo.svg#middle>
-[68]: <https://github.com/prrvchr/DerbyOOo>
-[69]: <https://github.com/prrvchr/DerbyOOo/releases/latest/download/DerbyOOo.oxt>
-[70]: <https://img.shields.io/github/downloads/prrvchr/DerbyOOo/total#right>
-[71]: <https://prrvchr.github.io/DerbyOOo/>
-[72]: <https://kicad-pcb.org/download/>
-[73]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
-[74]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/releases/latest/download/bom-cpl-plugin.py>
-[75]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
-[76]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
-[77]: <https://www.freecadweb.org/downloads.php>
-[78]: <https://prrvchr.github.io/Blender-Importer/img/blender.svg#middle>
-[79]: <https://github.com/prrvchr/Blender-Importer/>
-[80]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
-[81]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
-[82]: <https://prrvchr.github.io/Blender-Importer/>
-[83]: <https://github.com/prrvchr/USBTerminal/>
-[84]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
-[85]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
-[86]: <https://prrvchr.github.io/USBTerminal/>
-[87]: <https://www.blender.org/>
-[88]: <https://prrvchr.github.io/FreeCAD-Importer/img/freecad.svg#middle>
-[89]: <https://github.com/prrvchr/FreeCAD-Importer/>
-[90]: <https://github.com/prrvchr/FreeCAD-Importer/releases/latest/download/FreeCAD-Importer.zip>
-[91]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
-[92]: <https://prrvchr.github.io/FreeCAD-Importer/>
-[93]: <https://www.sqlite.org/index.html>
-[94]: <https://prrvchr.github.io/sqlite-jdbc/img/SQLiteJDBC.svg#middle>
-[95]: <https://github.com/prrvchr/sqlite-jdbc/>
-[96]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
-[97]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
-[98]: <https://prrvchr.github.io/sqlite-jdbc/>
+[62]: <https://prrvchr.github.io/JaybirdOOo/img/JaybirdOOo.svg#middle>
+[63]: <https://github.com/prrvchr/JaybirdOOo>
+[64]: <https://github.com/prrvchr/JaybirdOOo/releases/latest/download/JaybirdOOo.oxt>
+[65]: <https://img.shields.io/github/downloads/prrvchr/JaybirdOOo/total#right>
+[66]: <https://prrvchr.github.io/JaybirdOOo/>
+[67]: <https://prrvchr.github.io/H2dbOOo/img/H2dbOOo.svg#middle>
+[68]: <https://github.com/prrvchr/H2dbOOo>
+[69]: <https://github.com/prrvchr/H2dbOOo/releases/latest/download/H2dbOOo.oxt>
+[70]: <https://img.shields.io/github/downloads/prrvchr/H2dbOOo/total#right>
+[71]: <https://prrvchr.github.io/H2dbOOo/>
+[72]: <https://prrvchr.github.io/DerbyOOo/img/DerbyOOo.svg#middle>
+[73]: <https://github.com/prrvchr/DerbyOOo>
+[74]: <https://github.com/prrvchr/DerbyOOo/releases/latest/download/DerbyOOo.oxt>
+[75]: <https://img.shields.io/github/downloads/prrvchr/DerbyOOo/total#right>
+[76]: <https://prrvchr.github.io/DerbyOOo/>
+[77]: <https://kicad-pcb.org/download/>
+[78]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
+[79]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/releases/latest/download/bom-cpl-plugin.py>
+[80]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
+[81]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
+[82]: <https://www.freecadweb.org/downloads.php>
+[83]: <https://prrvchr.github.io/Blender-Importer/img/blender.svg#middle>
+[84]: <https://github.com/prrvchr/Blender-Importer/>
+[85]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
+[86]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
+[87]: <https://prrvchr.github.io/Blender-Importer/>
+[88]: <https://github.com/prrvchr/USBTerminal/>
+[89]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
+[90]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
+[91]: <https://prrvchr.github.io/USBTerminal/>
+[92]: <https://www.blender.org/>
+[93]: <https://prrvchr.github.io/FreeCAD-Importer/img/freecad.svg#middle>
+[94]: <https://github.com/prrvchr/FreeCAD-Importer/>
+[95]: <https://github.com/prrvchr/FreeCAD-Importer/releases/latest/download/FreeCAD-Importer.zip>
+[96]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
+[97]: <https://prrvchr.github.io/FreeCAD-Importer/>
+[98]: <https://www.sqlite.org/index.html>
+[99]: <https://prrvchr.github.io/sqlite-jdbc/img/SQLiteJDBC.svg#middle>
+[100]: <https://github.com/prrvchr/sqlite-jdbc/>
+[101]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
+[102]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
+[103]: <https://prrvchr.github.io/sqlite-jdbc/>
