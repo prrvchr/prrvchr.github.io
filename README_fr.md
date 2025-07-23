@@ -120,7 +120,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![SQLiteOOo logo][57] [SQLiteOOo][58]
 
-Cette extension vous permet d'utiliser la dernière version de SQLite JDBC (3.42.0.0) dans un seul fichier odb (SQLite intégrée).
+Cette extension vous permet d'utiliser la dernière version de SQLite JDBC dans un seul fichier odb (SQLite intégrée).
 
 Téléchargement direct: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
@@ -194,9 +194,21 @@ ___
 
 Le pilote SQLite entièrement conforme à JDBC 4.1.
 
-Téléchargement direct: **[sqlite-jdbc-3.45.1.6-SNAPSHOT.jar][101]** [![Download][102]][101]
+Téléchargement direct: **[sqlite-jdbc-3.50.2.1-SNAPSHOT.jar][101]** [![Download][102]][101]
 
 Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][103]**.
+
+___
+
+## [JaybirdEmbedded][104]:
+
+### ![JaybirdEmbedded][105] [JaybirdEmbedded][106]
+
+L'archive Java qui permet au pilote JDBC Jaybird de fonctionner en mode entièrement intégré.
+
+Téléchargement direct: **[JaybirdEmbedded.jar][107]** [![Download][108]][107]
+
+Concernant l'installation, la configuration et l'utilisation, veuillez consulter la **[documentation][109]**.
 
 [0]: </img/github.svg#collapse>
 [-1]: <https://prrvchr.github.io/>
@@ -300,6 +312,12 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 [98]: <https://www.sqlite.org/index.html>
 [99]: <https://prrvchr.github.io/sqlite-jdbc/img/SQLiteJDBC.svg#middle>
 [100]: <https://github.com/prrvchr/sqlite-jdbc/>
-[101]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
+[101]: <https://github.com/prrvchr/sqlite-jdbc/releases/latest/download/sqlite-jdbc-3.50.2.1-SNAPSHOT.jar>
 [102]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
 [103]: <https://prrvchr.github.io/sqlite-jdbc/README_fr>
+[104]: <https://github.com/prrvchr/JaybirdEmbedded/>
+[105]: <https://prrvchr.github.io/JaybirdEmbedded/img/jaybird.svg#middle>
+[106]: <https://github.com/prrvchr/JaybirdEmbedded/>
+[107]: <https://github.com/prrvchr/JaybirdEmbedded/releases/latest/download/JaybirdEmbedded.jar>
+[108]: <https://img.shields.io/github/downloads/prrvchr/JaybirdEmbedded/total#right>
+[109]: <https://prrvchr.github.io/JaybirdEmbedded/README_fr>

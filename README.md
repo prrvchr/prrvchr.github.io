@@ -120,7 +120,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ### ![SQLiteOOo logo][57] [SQLiteOOo][58]
 
-This extension allows you to use the latest version of SQLite JDBC (3.42.0.0) in a single odb file (embedded SQLite).
+This extension allows you to use the latest version of SQLite JDBC in a single odb file (embedded SQLite).
 
 Direct download: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
 
@@ -194,9 +194,21 @@ ___
 
 The SQLite driver full compliant JDBC 4.1.
 
-Direct download: **[sqlite-jdbc-3.45.1.6-SNAPSHOT.jar][101]** [![Download][102]][101]
+Direct download: **[sqlite-jdbc-3.50.2.1-SNAPSHOT.jar][101]** [![Download][102]][101]
 
 Regarding installation, configuration and use, please consult the **[documentation][103]**.
+
+___
+
+## [JaybirdEmbedded][104]:
+
+### ![JaybirdEmbedded][105] [JaybirdEmbedded][106]
+
+The Java archive that allows the Jaybird JDBC driver to operate in fully integrated mode.
+
+Direct download: **[JaybirdEmbedded.jar][107]** [![Download][108]][107]
+
+Regarding installation, configuration and use, please consult the **[documentation][109]**.
 
 [0]: </img/github.svg#collapse>
 [-1]: <https://prrvchr.github.io/>
@@ -303,3 +315,9 @@ Regarding installation, configuration and use, please consult the **[documentati
 [101]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
 [102]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
 [103]: <https://prrvchr.github.io/sqlite-jdbc/>
+[104]: <https://github.com/prrvchr/JaybirdEmbedded/>
+[105]: <https://prrvchr.github.io/JaybirdEmbedded/img/jaybird.svg#middle>
+[106]: <https://github.com/prrvchr/JaybirdEmbedded/>
+[107]: <https://github.com/prrvchr/JaybirdEmbedded/releases/latest/download/JaybirdEmbedded.jar>
+[108]: <https://img.shields.io/github/downloads/prrvchr/JaybirdEmbedded/total#right>
+[109]: <https://prrvchr.github.io/JaybirdEmbedded/>
