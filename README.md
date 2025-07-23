@@ -316,7 +316,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 [102]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
 [103]: <https://prrvchr.github.io/sqlite-jdbc/>
 [104]: <https://github.com/prrvchr/JaybirdEmbedded/>
-[105]: <https://prrvchr.github.io/JaybirdEmbedded/img/jaybird.svg#middle>
+[105]: <https://prrvchr.github.io/JaybirdEmbedded/img/JaybirdOOo.svg#middle>
 [106]: <https://github.com/prrvchr/JaybirdEmbedded/>
 [107]: <https://github.com/prrvchr/JaybirdEmbedded/releases/latest/download/JaybirdEmbedded.jar>
 [108]: <https://img.shields.io/github/downloads/prrvchr/JaybirdEmbedded/total#right>
