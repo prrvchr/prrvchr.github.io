@@ -39,8 +39,8 @@ ___
 
 ### ![eMailerOOo logo][5] [eMailerOOo][6]
 
-Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par publipostage, à vos contacts téléphoniques.  
-Elle fournit en plus une API utilisable en BASIC permettant d'envoyer des courriels et supportant les technologies les plus avancées (protocole OAuth2, Mozilla IspDB, HTTP au lieu de SMTP/IMAP, ...).  
+Cette extension vous permet d'envoyer des documents dans LibreOffice / OpenOffice sous forme de courriel, éventuellement par un publipostage suivant une liste de diffusion provenant de la source de donnée.  
+Elle fournit en plus une API utilisable en BASIC permettant d'envoyer des courriels avec la prise en charge des technologies les plus avancées (protocole OAuth2, Mozilla IspDB, HTTP au lieu de SMTP/IMAP, ...).  
 
 Téléchargement direct: **[eMailerOOo.oxt][7]** [![Download][8]][7]
 
@@ -56,7 +56,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![gContactOOo logo][16] [gContactOOo][17]
 
-Cette extension vous donne accès à vos contacts téléphoniques dans LibreOffice / OpenOffice (les contacts de votre téléphone Android).
+Cette extension vous donne accès à vos contacts Google dans LibreOffice / OpenOffice (les contacts de votre téléphone Android).
 
 Téléchargement direct: **[gContactOOo.oxt][18]** [![Download][19]][18]
 
@@ -72,7 +72,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![gDriveOOo logo][27] [gDriveOOo][28]
 
-Cette extension vous permet de travailler sous LibreOffice / OpenOffice sur vos fichiers présents sur votre téléphone (fichiers que vous avez téléchargés sur votre téléphone Android), même hors ligne.
+Cette extension vous permet de travailler sous LibreOffice / OpenOffice sur vos fichiers Google Drive, même hors ligne.
 
 Téléchargement direct: **[gDriveOOo.oxt][29]** [![Download][30]][29]
 

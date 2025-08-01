@@ -39,8 +39,8 @@ ___
 
 ### ![eMailerOOo logo][5] [eMailerOOo][6]
 
-This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge, to your telephone contacts.  
-It also provides an API usable in BASIC allowing you to send emails and supporting the most advanced technologies (OAuth2 protocol, Mozilla IspDB, HTTP instead of SMTP/IMAP, ...).  
+This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge following a mailing list from the data source.  
+It also provides an API usable in BASIC allowing you to send emails with support for the most advanced technologies (OAuth2 protocol, Mozilla IspDB, HTTP instead of SMTP/IMAP, ...).  
 
 Direct download: **[eMailerOOo.oxt][7]** [![Download][8]][7]
 
@@ -56,7 +56,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ### ![gContactOOo logo][16] [gContactOOo][17]
 
-This extension gives you access to your phone contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
+This extension gives you access to your Google contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
 
 Direct download: **[gContactOOo.oxt][18]** [![Download][19]][18]
 
@@ -72,7 +72,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ### ![gDriveOOo logo][27] [gDriveOOo][28]
 
-This extension allows you to work in LibreOffice / OpenOffice on your files on your phone (files that you have downloaded to your Android phone), even while offline.
+This extension allows you to work in LibreOffice / OpenOffice on your Google Drive files, even while offline.
 
 Direct download: **[gDriveOOo.oxt][29]** [![Download][30]][29]
 
