@@ -112,7 +112,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ### ![HyperSQLOOo logo][52] [HyperSQLOOo][53]
 
-This extension allows you to use the latest version of HsqlDB (2.7.2) in a single odb file (embedded HsqlDB).
+This extension allows you to use the latest version of HsqlDB in a single odb file (embedded HsqlDB).
 
 Direct download: **[HyperSQLOOo.oxt][54]** [![Download][55]][54]
 
@@ -200,7 +200,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ___
 
-## [JaybirdEmbedded][104]:
+## [Jaybird][104]:
 
 ### ![JaybirdEmbedded][105] [JaybirdEmbedded][106]
 
@@ -315,7 +315,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 [101]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
 [102]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
 [103]: <https://prrvchr.github.io/sqlite-jdbc/>
-[104]: <https://github.com/prrvchr/JaybirdEmbedded/>
+[104]: <https://github.com/FirebirdSQL/jaybird>
 [105]: <https://prrvchr.github.io/JaybirdEmbedded/img/JaybirdOOo.svg#middle>
 [106]: <https://github.com/prrvchr/JaybirdEmbedded/>
 [107]: <https://github.com/prrvchr/JaybirdEmbedded/releases/latest/download/JaybirdEmbedded.jar>
