@@ -104,7 +104,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![jdbcDriverOOo logo][47] [jdbcDriverOOo][48]
 
-Les derniers pilotes JDBC enfin disponibles dans Base.
+Le nouveau pilote pur Java JDBC type 4 vers UNO SDBC.
 
 Téléchargement direct: **[jdbcDriverOOo.oxt][49]** [![Download][50]][49]
 

@@ -104,7 +104,7 @@ Regarding installation, configuration and use, please consult the **[documentati
 
 ### ![jdbcDriverOOo logo][47] [jdbcDriverOOo][48]
 
-The latest JDBC drivers finally available in Base.
+The new pure Java JDBC type 4 to UNO SDBC driver.
 
 Direct download: **[jdbcDriverOOo.oxt][49]** [![Download][50]][49]
 
