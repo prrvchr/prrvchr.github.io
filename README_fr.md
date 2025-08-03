@@ -128,7 +128,7 @@ Concernant l'installation, la configuration et l'utilisation, veuillez consulter
 
 ### ![JaybirdOOo logo][62] [JaybirdOOo][63]
 
-Cette extension vous permet d'utiliser la dernière version de Jaybird (6.0.0) dans un seul fichier odb (Firebird intégrée).
+Cette extension vous permet d'utiliser la dernière version de Jaybird dans un seul fichier odb (Firebird intégrée).
 
 Téléchargement direct: **[JaybirdOOo.oxt][64]** [![Download][65]][64]
 
