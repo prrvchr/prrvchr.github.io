@@ -1,7 +1,7 @@
 <!--
 ╔════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                    ║
-║   Copyright (c) 2020 https://prrvchr.github.io                                     ║
+║   Copyright (c) 2020-25 https://prrvchr.github.io                                  ║
 ║                                                                                    ║
 ║   Permission is hereby granted, free of charge, to any person obtaining            ║
 ║   a copy of this software and associated documentation files (the "Software"),     ║
@@ -23,9 +23,9 @@
 ║                                                                                    ║
 ╚════════════════════════════════════════════════════════════════════════════════════╝
 -->
-# [![GitHub logo][0]][-1] Welcome to prrvchr [repositories][1]
+# [![GitHub logo][1]][2] Welcome to prrvchr [repositories][3]
 
-**Ce [document][2] en français.**
+**Ce [document][4] en français.**
 
 To answer the adage: **"Free software only offers what we give it."**
 
@@ -35,289 +35,293 @@ Below is a list of extensions that make free software more innovative:
 
 ___
 
-## [LibreOffice][3] / [OpenOffice][4] extensions:
+## [LibreOffice][5] / [OpenOffice][6] extensions:
 
-### ![eMailerOOo logo][5] [eMailerOOo][6]
+### ![eMailerOOo logo][7] [eMailerOOo][8]
 
-This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge following a mailing list from the data source.  
-It also provides an API usable in BASIC allowing you to send emails with support for the most advanced technologies (OAuth2 protocol, Mozilla IspDB, HTTP instead of SMTP/IMAP, ...).  
+This extension allows you to send documents in LibreOffice / OpenOffice as an email, possibly by mail merge following a mailing list from the data source.
 
-Direct download: **[eMailerOOo.oxt][7]** [![Download][8]][7]
+It also provides an API usable in [BASIC][9] allowing you to send emails with support for the most advanced technologies (OAuth2 protocol, Mozilla IspDB, HTTP instead of SMTP/IMAP, ...).
 
-Regarding installation, configuration and use, please consult the **[documentation][9]**.
+Direct download: **[eMailerOOo.oxt][10]** [![Download][11]][10]
 
-### ![vCardOOo logo][10] [vCardOOo][11]
+Regarding installation, configuration and use, please consult the **[documentation][12]**.
 
-This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [**Nextcloud**][12] platform (or any Nextcloud compatible server).
+### ![vCardOOo logo][13] [vCardOOo][14]
 
-Direct download: **[vCardOOo.oxt][13]** [![Download][14]][13]
+This extension gives you access in LibreOffice / OpenOffice, to your contacts present on a [Nextcloud][15] platform (or any Nextcloud compatible server).
 
-Regarding installation, configuration and use, please consult the **[documentation][15]**.
+Direct download: **[vCardOOo.oxt][16]** [![Download][17]][16]
 
-### ![gContactOOo logo][16] [gContactOOo][17]
+Regarding installation, configuration and use, please consult the **[documentation][18]**.
+
+### ![gContactOOo logo][19] [gContactOOo][20]
 
 This extension gives you access to your Google contacts in LibreOffice / OpenOffice (the contacts of your Android phone).
 
-Direct download: **[gContactOOo.oxt][18]** [![Download][19]][18]
+Direct download: **[gContactOOo.oxt][21]** [![Download][22]][21]
 
-Regarding installation, configuration and use, please consult the **[documentation][20]**.
+Regarding installation, configuration and use, please consult the **[documentation][23]**.
 
-### ![mContactOOo logo][21] [mContactOOo][22]
+### ![mContactOOo logo][24] [mContactOOo][25]
 
-This extension gives you access to your Microsoft Outlook contacts in LibreOffice / OpenOffice (the contacts of your [Outlook email client][23]).
+This extension gives you access to your Microsoft Outlook contacts in LibreOffice / OpenOffice (the contacts of your [Outlook email client][26]).
 
-Direct download: **[mContactOOo.oxt][24]** [![Download][25]][24]
+Direct download: **[mContactOOo.oxt][27]** [![Download][28]][27]
 
-Regarding installation, configuration and use, please consult the **[documentation][26]**.
+Regarding installation, configuration and use, please consult the **[documentation][29]**.
 
-### ![gDriveOOo logo][27] [gDriveOOo][28]
+### ![gDriveOOo logo][30] [gDriveOOo][31]
 
 This extension allows you to work in LibreOffice / OpenOffice on your Google Drive files, even while offline.
 
-Direct download: **[gDriveOOo.oxt][29]** [![Download][30]][29]
+Direct download: **[gDriveOOo.oxt][32]** [![Download][33]][32]
 
-Regarding installation, configuration and use, please consult the **[documentation][31]**.
+Regarding installation, configuration and use, please consult the **[documentation][34]**.
 
-### ![mDriveOOo logo][32] [mDriveOOo][33]
+### ![mDriveOOo logo][35] [mDriveOOo][36]
 
 This extension allows you to work in LibreOffice / OpenOffice on your Microsoft OneDrive files, even while offline.
 
-Direct download: **[mDriveOOo.oxt][34]** [![Download][35]][34]
+Direct download: **[mDriveOOo.oxt][37]** [![Download][38]][37]
 
-Regarding installation, configuration and use, please consult the **[documentation][36]**.
+Regarding installation, configuration and use, please consult the **[documentation][39]**.
 
-### ![dDriveOOo logo][37] [dDriveOOo][38]
+### ![dDriveOOo logo][40] [dDriveOOo][41]
 
 This extension allows you to work in LibreOffice / OpenOffice on your Dropbox files, even while offline.
 
-Direct download: **[dDriveOOo.oxt][39]** [![Download][40]][39]
+Direct download: **[dDriveOOo.oxt][42]** [![Download][43]][42]
 
-Regarding installation, configuration and use, please consult the **[documentation][41]**.
+Regarding installation, configuration and use, please consult the **[documentation][44]**.
 
-### ![OAuth2OOo logo][42] [OAuth2OOo][43]
+### ![OAuth2OOo logo][45] [OAuth2OOo][46]
 
 This extension is the implementation of the OAuth 2.0 protocol. Protocol allowing you to obtain your consent so that an application can access your data present at the GAFA.
 
-Direct download: **[OAuth2OOo.oxt][44]** [![Download][45]][44]
+It also provides an API that can be used in [BASIC][9] to execute all kinds of HTTP requests with support for the most advanced technologies (OAuth2 protocol, reading an HTTP response via a data stream...).
 
-Regarding installation, configuration and use, please consult the **[documentation][46]**.
+Direct download: **[OAuth2OOo.oxt][47]** [![Download][48]][47]
 
-### ![jdbcDriverOOo logo][47] [jdbcDriverOOo][48]
+Regarding installation, configuration and use, please consult the **[documentation][49]**.
+
+### ![jdbcDriverOOo logo][50] [jdbcDriverOOo][51]
 
 The new pure Java JDBC type 4 to UNO SDBC driver.
 
-Direct download: **[jdbcDriverOOo.oxt][49]** [![Download][50]][49]
+Direct download: **[jdbcDriverOOo.oxt][52]** [![Download][53]][52]
 
-Regarding installation, configuration and use, please consult the **[documentation][51]**.
+Regarding installation, configuration and use, please consult the **[documentation][54]**.
 
-### ![HyperSQLOOo logo][52] [HyperSQLOOo][53]
+### ![HyperSQLOOo logo][55] [HyperSQLOOo][56]
 
 This extension allows you to use the latest version of HsqlDB in a single odb file (embedded HsqlDB).
 
-Direct download: **[HyperSQLOOo.oxt][54]** [![Download][55]][54]
+Direct download: **[HyperSQLOOo.oxt][57]** [![Download][58]][57]
 
-Regarding installation, configuration and use, please consult the **[documentation][56]**.
+Regarding installation, configuration and use, please consult the **[documentation][59]**.
 
-### ![SQLiteOOo logo][57] [SQLiteOOo][58]
+### ![SQLiteOOo logo][60] [SQLiteOOo][61]
 
 This extension allows you to use the latest version of SQLite JDBC in a single odb file (embedded SQLite).
 
-Direct download: **[SQLiteOOo.oxt][59]** [![Download][60]][59]
+Direct download: **[SQLiteOOo.oxt][62]** [![Download][63]][62]
 
-Regarding installation, configuration and use, please consult the **[documentation][61]**.
+Regarding installation, configuration and use, please consult the **[documentation][64]**.
 
-### ![JaybirdOOo logo][62] [JaybirdOOo][63]
+### ![JaybirdOOo logo][65] [JaybirdOOo][66]
 
 This extension allows you to use the latest version of Jaybird in a single odb file (embedded Firebird).
 
-Direct download: **[JaybirdOOo.oxt][64]** [![Download][65]][64]
+Direct download: **[JaybirdOOo.oxt][67]** [![Download][68]][67]
 
-Regarding installation, configuration and use, please consult the **[documentation][66]**.
+Regarding installation, configuration and use, please consult the **[documentation][69]**.
 
-### ![H2dbOOo logo][67] [H2dbOOo][68]
+### ![H2dbOOo logo][70] [H2dbOOo][71]
 
 This extension allows you to use the latest version of H2 Database in a single odb file (embedded H2).
 
-Direct download: **[H2dbOOo.oxt][69]** [![Download][70]][69]
+Direct download: **[H2dbOOo.oxt][72]** [![Download][73]][72]
 
-Regarding installation, configuration and use, please consult the **[documentation][71]**.
+Regarding installation, configuration and use, please consult the **[documentation][74]**.
 
-### ![DerbyOOo logo][72] [DerbyOOo][73]
+### ![DerbyOOo logo][75] [DerbyOOo][76]
 
 This extension allows you to use the latest version of Apache Derby in a single odb file (embedded Derby).
 
-Direct download: **[DerbyOOo.oxt][74]** [![Download][75]][74]
+Direct download: **[DerbyOOo.oxt][77]** [![Download][78]][77]
 
-Regarding installation, configuration and use, please consult the **[documentation][76]**.
-
-___
-
-## [KiCad][77] plugins:
-
-### [KiCad-BOM-CPL-Plugin][78]
-
-Direct download: **[KiCad-BOM-CPL-Plugin][79]** [![Download][80]][79]
-
-Regarding installation, configuration and use, please consult the **[documentation][81]**.
+Regarding installation, configuration and use, please consult the **[documentation][79]**.
 
 ___
 
-## [FreeCAD][82] workbench:
+## [KiCad][80] plugins:
 
-### ![Blender Importer logo][83] [Blender Importer][84]
+### [KiCad-BOM-CPL-Plugin][81]
 
-Direct download: **[Blender Importer][85]** [![Download][86]][85]
+Direct download: **[KiCad-BOM-CPL-Plugin][82]** [![Download][83]][82]
 
-Regarding installation, configuration and use, please consult the **[documentation][87]**.
-
-### [USBTerminal][88]
-
-Direct download: **[USBTerminal][89]** [![Download][90]][89]
-
-Regarding installation, configuration and use, please consult the **[documentation][91]**.
+Regarding installation, configuration and use, please consult the **[documentation][84]**.
 
 ___
 
-## [Blender][92] add-ons:
+## [FreeCAD][85] workbench:
 
-### ![FreeCAD Importer logo][93] [FreeCAD Importer][94]
+### ![Blender Importer logo][86] [Blender Importer][87]
 
-Direct download: **[FreeCAD Importer][95]** [![Download][96]][95]
+Direct download: **[Blender Importer][88]** [![Download][89]][88]
 
-Regarding installation, configuration and use, please consult the **[documentation][97]**.
+Regarding installation, configuration and use, please consult the **[documentation][90]**.
+
+### [USBTerminal][91]
+
+Direct download: **[USBTerminal][92]** [![Download][93]][92]
+
+Regarding installation, configuration and use, please consult the **[documentation][94]**.
 
 ___
 
-## [SQLite][98]:
+## [Blender][95] add-ons:
 
-### ![SQlite JDBC][99] [SQLite JDBC][100]
+### ![FreeCAD Importer logo][96] [FreeCAD Importer][97]
+
+Direct download: **[FreeCAD Importer][98]** [![Download][99]][98]
+
+Regarding installation, configuration and use, please consult the **[documentation][100]**.
+
+___
+
+## [SQLite][101]:
+
+### ![SQlite JDBC][102] [SQLite JDBC][103]
 
 The SQLite driver full compliant JDBC 4.1.
 
-Direct download: **[sqlite-jdbc-3.50.2.1-SNAPSHOT.jar][101]** [![Download][102]][101]
+Direct download: **[sqlite-jdbc-3.50.2.1-SNAPSHOT.jar][104]** [![Download][105]][104]
 
-Regarding installation, configuration and use, please consult the **[documentation][103]**.
+Regarding installation, configuration and use, please consult the **[documentation][106]**.
 
 ___
 
-## [Jaybird][104]:
+## [Jaybird][107]:
 
-### ![JaybirdEmbedded][105] [JaybirdEmbedded][106]
+### ![JaybirdEmbedded][108] [JaybirdEmbedded][109]
 
 The Java archive that allows the Jaybird JDBC driver to operate in fully integrated mode.
 
-Direct download: **[JaybirdEmbedded.jar][107]** [![Download][108]][107]
+Direct download: **[JaybirdEmbedded.jar][110]** [![Download][111]][110]
 
-Regarding installation, configuration and use, please consult the **[documentation][109]**.
+Regarding installation, configuration and use, please consult the **[documentation][112]**.
 
-[0]: </img/github.svg#collapse>
-[-1]: <https://prrvchr.github.io/>
-[1]: <https://github.com/prrvchr?tab=repositories>
-[2]: <https://prrvchr.github.io/README_fr>
-[3]: <https://www.libreoffice.org/download/download/>
-[4]: <https://www.openoffice.org/download/index.html>
-[5]: <https://prrvchr.github.io/eMailerOOo/img/eMailerOOo.svg#middle>
-[6]: <https://github.com/prrvchr/eMailerOOo/>
-[7]: <https://github.com/prrvchr/eMailerOOo/releases/latest/download/eMailerOOo.oxt>
-[8]: <https://img.shields.io/github/downloads/prrvchr/eMailerOOo/total#right>
-[9]: <https://prrvchr.github.io/eMailerOOo/>
-[10]: <https://prrvchr.github.io/vCardOOo/img/vCardOOo.svg#middle>
-[11]: <https://github.com/prrvchr/vCardOOo/>
-[12]: <https://en.wikipedia.org/wiki/Nextcloud>
-[13]: <https://github.com/prrvchr/vCardOOo/releases/latest/download/vCardOOo.oxt>
-[14]: <https://img.shields.io/github/downloads/prrvchr/vCardOOo/total#right>
-[15]: <https://prrvchr.github.io/vCardOOo/>
-[16]: <https://prrvchr.github.io/gContactOOo/img/gContactOOo.svg#middle>
-[17]: <https://github.com/prrvchr/gContactOOo/>
-[18]: <https://github.com/prrvchr/gContactOOo/releases/latest/download/gContactOOo.oxt>
-[19]: <https://img.shields.io/github/downloads/prrvchr/gContactOOo/total#right>
-[20]: <https://prrvchr.github.io/gContactOOo/>
-[21]: <https://prrvchr.github.io/mContactOOo/img/mContactOOo.svg#middle>
-[22]: <https://github.com/prrvchr/mContactOOo/>
-[23]: <https://outlook.live.com/mail/0/>
-[24]: <https://github.com/prrvchr/mContactOOo/releases/latest/download/mContactOOo.oxt>
-[25]: <https://img.shields.io/github/downloads/prrvchr/mContactOOo/total#right>
-[26]: <https://prrvchr.github.io/mContactOOo/>
-[27]: <https://prrvchr.github.io/gDriveOOo/img/gDriveOOo.svg#middle>
-[28]: <https://github.com/prrvchr/gDriveOOo/>
-[29]: <https://github.com/prrvchr/gDriveOOo/releases/latest/download/gDriveOOo.oxt>
-[30]: <https://img.shields.io/github/downloads/prrvchr/gDriveOOo/total#right>
-[31]: <https://prrvchr.github.io/gDriveOOo/>
-[32]: <https://prrvchr.github.io/mDriveOOo/img/mDriveOOo.svg#middle>
-[33]: <https://github.com/prrvchr/mDriveOOo/>
-[34]: <https://github.com/prrvchr/mDriveOOo/releases/latest/download/mDriveOOo.oxt>
-[35]: <https://img.shields.io/github/downloads/prrvchr/mDriveOOo/total#right>
-[36]: <https://prrvchr.github.io/mDriveOOo/>
-[37]: <https://prrvchr.github.io/dDriveOOo/img/dDriveOOo.svg#middle>
-[38]: <https://github.com/prrvchr/dDriveOOo/>
-[39]: <https://github.com/prrvchr/dDriveOOo/releases/latest/download/dDriveOOo.oxt>
-[40]: <https://img.shields.io/github/downloads/prrvchr/dDriveOOo/total#right>
-[41]: <https://prrvchr.github.io/dDriveOOo/>
-[42]: <https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.svg#middle>
-[43]: <https://github.com/prrvchr/OAuth2OOo>
-[44]: <https://github.com/prrvchr/OAuth2OOo/releases/latest/download/OAuth2OOo.oxt>
-[45]: <https://img.shields.io/github/downloads/prrvchr/OAuth2OOo/total#right>
-[46]: <https://prrvchr.github.io/OAuth2OOo/>
-[47]: <https://prrvchr.github.io/jdbcDriverOOo/img/jdbcDriverOOo.svg#middle>
-[48]: <https://github.com/prrvchr/jdbcDriverOOo/>
-[49]: <https://github.com/prrvchr/jdbcDriverOOo/releases/latest/download/jdbcDriverOOo.oxt>
-[50]: <https://img.shields.io/github/downloads/prrvchr/jdbcDriverOOo/total#right>
-[51]: <https://prrvchr.github.io/jdbcDriverOOo/>
-[52]: <https://prrvchr.github.io/HyperSQLOOo/img/HyperSQLOOo.svg#middle>
-[53]: <https://github.com/prrvchr/HyperSQLOOo>
-[54]: <https://github.com/prrvchr/HyperSQLOOo/releases/latest/download/HyperSQLOOo.oxt>
-[55]: <https://img.shields.io/github/downloads/prrvchr/HyperSQLOOo/total#right>
-[56]: <https://prrvchr.github.io/HyperSQLOOo/>
-[57]: <https://prrvchr.github.io/SQLiteOOo/img/SQLiteOOo.svg#middle>
-[58]: <https://github.com/prrvchr/SQLiteOOo>
-[59]: <https://github.com/prrvchr/SQLiteOOo/releases/latest/download/SQLiteOOo.oxt>
-[60]: <https://img.shields.io/github/downloads/prrvchr/SQLiteOOo/total#right>
-[61]: <https://prrvchr.github.io/SQLiteOOo/>
-[62]: <https://prrvchr.github.io/JaybirdOOo/img/JaybirdOOo.svg#middle>
-[63]: <https://github.com/prrvchr/JaybirdOOo>
-[64]: <https://github.com/prrvchr/JaybirdOOo/releases/latest/download/JaybirdOOo.oxt>
-[65]: <https://img.shields.io/github/downloads/prrvchr/JaybirdOOo/total#right>
-[66]: <https://prrvchr.github.io/JaybirdOOo/>
-[67]: <https://prrvchr.github.io/H2dbOOo/img/H2dbOOo.svg#middle>
-[68]: <https://github.com/prrvchr/H2dbOOo>
-[69]: <https://github.com/prrvchr/H2dbOOo/releases/latest/download/H2dbOOo.oxt>
-[70]: <https://img.shields.io/github/downloads/prrvchr/H2dbOOo/total#right>
-[71]: <https://prrvchr.github.io/H2dbOOo/>
-[72]: <https://prrvchr.github.io/DerbyOOo/img/DerbyOOo.svg#middle>
-[73]: <https://github.com/prrvchr/DerbyOOo>
-[74]: <https://github.com/prrvchr/DerbyOOo/releases/latest/download/DerbyOOo.oxt>
-[75]: <https://img.shields.io/github/downloads/prrvchr/DerbyOOo/total#right>
-[76]: <https://prrvchr.github.io/DerbyOOo/>
-[77]: <https://kicad-pcb.org/download/>
-[78]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
-[79]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/releases/latest/download/bom-cpl-plugin.py>
-[80]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
-[81]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
-[82]: <https://www.freecadweb.org/downloads.php>
-[83]: <https://prrvchr.github.io/Blender-Importer/img/blender.svg#middle>
-[84]: <https://github.com/prrvchr/Blender-Importer/>
-[85]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
-[86]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
-[87]: <https://prrvchr.github.io/Blender-Importer/>
-[88]: <https://github.com/prrvchr/USBTerminal/>
-[89]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
-[90]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
-[91]: <https://prrvchr.github.io/USBTerminal/>
-[92]: <https://www.blender.org/>
-[93]: <https://prrvchr.github.io/FreeCAD-Importer/img/freecad.svg#middle>
-[94]: <https://github.com/prrvchr/FreeCAD-Importer/>
-[95]: <https://github.com/prrvchr/FreeCAD-Importer/releases/latest/download/FreeCAD-Importer.zip>
-[96]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
-[97]: <https://prrvchr.github.io/FreeCAD-Importer/>
-[98]: <https://www.sqlite.org/index.html>
-[99]: <https://prrvchr.github.io/sqlite-jdbc/img/SQLiteJDBC.svg#middle>
-[100]: <https://github.com/prrvchr/sqlite-jdbc/>
-[101]: <https://github.com/prrvchr/sqlite-jdbc/releases/download/3.45.1.6-SNAPSHOT/sqlite-jdbc-3.45.1.6-SNAPSHOT.jar>
-[102]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
-[103]: <https://prrvchr.github.io/sqlite-jdbc/>
-[104]: <https://github.com/FirebirdSQL/jaybird>
-[105]: <https://prrvchr.github.io/JaybirdEmbedded/img/JaybirdOOo.svg#middle>
-[106]: <https://github.com/prrvchr/JaybirdEmbedded/>
-[107]: <https://github.com/prrvchr/JaybirdEmbedded/releases/latest/download/JaybirdEmbedded.jar>
-[108]: <https://img.shields.io/github/downloads/prrvchr/JaybirdEmbedded/total#right>
-[109]: <https://prrvchr.github.io/JaybirdEmbedded/>
+[1]: </img/github.svg#collapse>
+[2]: <https://prrvchr.github.io/>
+[3]: <https://github.com/prrvchr?tab=repositories>
+[4]: <https://prrvchr.github.io/README_fr>
+[5]: <https://www.libreoffice.org/download/download/>
+[6]: <https://www.openoffice.org/download/index.html>
+[7]: <https://prrvchr.github.io/eMailerOOo/img/eMailerOOo.svg#middle>
+[8]: <https://github.com/prrvchr/eMailerOOo/>
+[9]: <https://help.libreoffice.org/latest/en-US/text/sbasic/shared/01000000.html?DbPAR=BASIC>
+[10]: <https://github.com/prrvchr/eMailerOOo/releases/latest/download/eMailerOOo.oxt>
+[11]: <https://img.shields.io/github/downloads/prrvchr/eMailerOOo/total#right>
+[12]: <https://prrvchr.github.io/eMailerOOo/>
+[13]: <https://prrvchr.github.io/vCardOOo/img/vCardOOo.svg#middle>
+[14]: <https://github.com/prrvchr/vCardOOo/>
+[15]: <https://en.wikipedia.org/wiki/Nextcloud>
+[16]: <https://github.com/prrvchr/vCardOOo/releases/latest/download/vCardOOo.oxt>
+[17]: <https://img.shields.io/github/downloads/prrvchr/vCardOOo/total#right>
+[18]: <https://prrvchr.github.io/vCardOOo/>
+[19]: <https://prrvchr.github.io/gContactOOo/img/gContactOOo.svg#middle>
+[20]: <https://github.com/prrvchr/gContactOOo/>
+[21]: <https://github.com/prrvchr/gContactOOo/releases/latest/download/gContactOOo.oxt>
+[22]: <https://img.shields.io/github/downloads/prrvchr/gContactOOo/total#right>
+[23]: <https://prrvchr.github.io/gContactOOo/>
+[24]: <https://prrvchr.github.io/mContactOOo/img/mContactOOo.svg#middle>
+[25]: <https://github.com/prrvchr/mContactOOo/>
+[26]: <https://outlook.live.com/mail/0/>
+[27]: <https://github.com/prrvchr/mContactOOo/releases/latest/download/mContactOOo.oxt>
+[28]: <https://img.shields.io/github/downloads/prrvchr/mContactOOo/total#right>
+[29]: <https://prrvchr.github.io/mContactOOo/>
+[30]: <https://prrvchr.github.io/gDriveOOo/img/gDriveOOo.svg#middle>
+[31]: <https://github.com/prrvchr/gDriveOOo/>
+[32]: <https://github.com/prrvchr/gDriveOOo/releases/latest/download/gDriveOOo.oxt>
+[33]: <https://img.shields.io/github/downloads/prrvchr/gDriveOOo/total#right>
+[34]: <https://prrvchr.github.io/gDriveOOo/>
+[35]: <https://prrvchr.github.io/mDriveOOo/img/mDriveOOo.svg#middle>
+[36]: <https://github.com/prrvchr/mDriveOOo/>
+[37]: <https://github.com/prrvchr/mDriveOOo/releases/latest/download/mDriveOOo.oxt>
+[38]: <https://img.shields.io/github/downloads/prrvchr/mDriveOOo/total#right>
+[39]: <https://prrvchr.github.io/mDriveOOo/>
+[40]: <https://prrvchr.github.io/dDriveOOo/img/dDriveOOo.svg#middle>
+[41]: <https://github.com/prrvchr/dDriveOOo/>
+[42]: <https://github.com/prrvchr/dDriveOOo/releases/latest/download/dDriveOOo.oxt>
+[43]: <https://img.shields.io/github/downloads/prrvchr/dDriveOOo/total#right>
+[44]: <https://prrvchr.github.io/dDriveOOo/>
+[45]: <https://prrvchr.github.io/OAuth2OOo/img/OAuth2OOo.svg#middle>
+[46]: <https://github.com/prrvchr/OAuth2OOo>
+[47]: <https://github.com/prrvchr/OAuth2OOo/releases/latest/download/OAuth2OOo.oxt>
+[48]: <https://img.shields.io/github/downloads/prrvchr/OAuth2OOo/total#right>
+[49]: <https://prrvchr.github.io/OAuth2OOo/>
+[50]: <https://prrvchr.github.io/jdbcDriverOOo/img/jdbcDriverOOo.svg#middle>
+[51]: <https://github.com/prrvchr/jdbcDriverOOo/>
+[52]: <https://github.com/prrvchr/jdbcDriverOOo/releases/latest/download/jdbcDriverOOo.oxt>
+[53]: <https://img.shields.io/github/downloads/prrvchr/jdbcDriverOOo/total#right>
+[54]: <https://prrvchr.github.io/jdbcDriverOOo/>
+[55]: <https://prrvchr.github.io/HyperSQLOOo/img/HyperSQLOOo.svg#middle>
+[56]: <https://github.com/prrvchr/HyperSQLOOo>
+[57]: <https://github.com/prrvchr/HyperSQLOOo/releases/latest/download/HyperSQLOOo.oxt>
+[58]: <https://img.shields.io/github/downloads/prrvchr/HyperSQLOOo/total#right>
+[59]: <https://prrvchr.github.io/HyperSQLOOo/>
+[60]: <https://prrvchr.github.io/SQLiteOOo/img/SQLiteOOo.svg#middle>
+[61]: <https://github.com/prrvchr/SQLiteOOo>
+[62]: <https://github.com/prrvchr/SQLiteOOo/releases/latest/download/SQLiteOOo.oxt>
+[63]: <https://img.shields.io/github/downloads/prrvchr/SQLiteOOo/total#right>
+[64]: <https://prrvchr.github.io/SQLiteOOo/>
+[65]: <https://prrvchr.github.io/JaybirdOOo/img/JaybirdOOo.svg#middle>
+[66]: <https://github.com/prrvchr/JaybirdOOo>
+[67]: <https://github.com/prrvchr/JaybirdOOo/releases/latest/download/JaybirdOOo.oxt>
+[68]: <https://img.shields.io/github/downloads/prrvchr/JaybirdOOo/total#right>
+[69]: <https://prrvchr.github.io/JaybirdOOo/>
+[70]: <https://prrvchr.github.io/H2dbOOo/img/H2dbOOo.svg#middle>
+[71]: <https://github.com/prrvchr/H2dbOOo>
+[72]: <https://github.com/prrvchr/H2dbOOo/releases/latest/download/H2dbOOo.oxt>
+[73]: <https://img.shields.io/github/downloads/prrvchr/H2dbOOo/total#right>
+[74]: <https://prrvchr.github.io/H2dbOOo/>
+[75]: <https://prrvchr.github.io/DerbyOOo/img/DerbyOOo.svg#middle>
+[76]: <https://github.com/prrvchr/DerbyOOo>
+[77]: <https://github.com/prrvchr/DerbyOOo/releases/latest/download/DerbyOOo.oxt>
+[78]: <https://img.shields.io/github/downloads/prrvchr/DerbyOOo/total#right>
+[79]: <https://prrvchr.github.io/DerbyOOo/>
+[80]: <https://kicad-pcb.org/download/>
+[81]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/>
+[82]: <https://github.com/prrvchr/KiCad-BOM-CPL-Plugin/releases/latest/download/bom-cpl-plugin.py>
+[83]: <https://img.shields.io/github/downloads/prrvchr/KiCad-BOM-CPL-Plugin/total#right>
+[84]: <https://prrvchr.github.io/KiCad-BOM-CPL-Plugin/>
+[85]: <https://www.freecadweb.org/downloads.php>
+[86]: <https://prrvchr.github.io/Blender-Importer/img/blender.svg#middle>
+[87]: <https://github.com/prrvchr/Blender-Importer/>
+[88]: <https://github.com/prrvchr/Blender-Importer/releases/latest/download/Blender-Importer.zip>
+[89]: <https://img.shields.io/github/downloads/prrvchr/Blender-Importer/total#right>
+[90]: <https://prrvchr.github.io/Blender-Importer/>
+[91]: <https://github.com/prrvchr/USBTerminal/>
+[92]: <https://github.com/prrvchr/USBTerminal/releases/latest/download/USBTerminal.zip>
+[93]: <https://img.shields.io/github/downloads/prrvchr/USBTerminal/total#right>
+[94]: <https://prrvchr.github.io/USBTerminal/>
+[95]: <https://www.blender.org/>
+[96]: <https://prrvchr.github.io/FreeCAD-Importer/img/freecad.svg#middle>
+[97]: <https://github.com/prrvchr/FreeCAD-Importer/>
+[98]: <https://github.com/prrvchr/FreeCAD-Importer/releases/latest/download/FreeCAD-Importer.zip>
+[99]: <https://img.shields.io/github/downloads/prrvchr/FreeCAD-Importer/total#right>
+[100]: <https://prrvchr.github.io/FreeCAD-Importer/>
+[101]: <https://www.sqlite.org/index.html>
+[102]: <https://prrvchr.github.io/sqlite-jdbc/img/SQLiteJDBC.svg#middle>
+[103]: <https://github.com/prrvchr/sqlite-jdbc/>
+[104]: <https://github.com/prrvchr/sqlite-jdbc/releases/latest/download/sqlite-jdbc-3.50.2.1-SNAPSHOT.jar>
+[105]: <https://img.shields.io/github/downloads/prrvchr/sqlite-jdbc/total#right>
+[106]: <https://prrvchr.github.io/sqlite-jdbc/>
+[107]: <https://github.com/FirebirdSQL/jaybird>
+[108]: <https://prrvchr.github.io/JaybirdEmbedded/img/JaybirdOOo.svg#middle>
+[109]: <https://github.com/prrvchr/JaybirdEmbedded/>
+[110]: <https://github.com/prrvchr/JaybirdEmbedded/releases/latest/download/JaybirdEmbedded.jar>
+[111]: <https://img.shields.io/github/downloads/prrvchr/JaybirdEmbedded/total#right>
+[112]: <https://prrvchr.github.io/JaybirdEmbedded/>
