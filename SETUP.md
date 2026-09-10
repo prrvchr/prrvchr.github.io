@@ -30,9 +30,9 @@ permalink: /setup/
 -->
 # [![GitHub logo][1]][2] Configure LibreOffice extensions
 
-**Ce [document][3] en français.**
-
 {% include return-link.html %}
+
+**Ce [document][3] en français.**
 
 ___
 
