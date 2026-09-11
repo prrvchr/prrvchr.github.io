@@ -32,6 +32,7 @@ permalink: /fr/setup/
 
 **This [document][3] in English.**
 
+
 {% include return-link.html %}
 
 ___
