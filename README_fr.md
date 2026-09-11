@@ -2,6 +2,9 @@
 layout: default
 title: Dépôts de prrvchr (Français)
 permalink: /fr/
+redirect_from:
+  - /README_fr
+  - /README_fr.html
 ---
 <!--
 ╔════════════════════════════════════════════════════════════════════════════════════╗

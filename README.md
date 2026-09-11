@@ -2,6 +2,9 @@
 layout: default
 title: prrvchr repositories (English)
 permalink: /
+redirect_from:
+  - /README
+  - /README.html
 ---
 <!--
 ╔════════════════════════════════════════════════════════════════════════════════════╗
